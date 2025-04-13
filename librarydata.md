@@ -47,7 +47,7 @@ When the infamous Dark Lord finds himself forced into early retirement, he conve
 ## A Witch on the Line
 **Author:** Andrew Wooldridge
 **Series:** Book One of The Resonant Pairs Trilogy
-**Cover Image:** [A Witch on the Line.jpg](./A%20Witch%20on%20the%20Line.jpg)
+**Cover Image:** [A Witch.png](./A%20Witch.png)
 
 ### Summary
 A thriller/urban fantasy novel about Thomas Walker, a devout Christian and widower, who discovers a mysterious cell phone at a yard sale that connects him to Willow Blackwood, a young witch held captive by a secret government organization called Project Grimoire.

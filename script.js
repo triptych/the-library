@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             title: "A Witch on the Line",
             author: "Andrew Wooldridge",
-            coverImage: "./A Witch on the Line.jpg",
+            coverImage: "./A Witch.png",
             url: "https://a-witch-on-the-line.puter.site/",
             summary: "A thriller/urban fantasy novel about Thomas Walker, a devout Christian and widower, who discovers a mysterious cell phone at a yard sale that connects him to Willow Blackwood, a young witch held captive by a secret government organization called Project Grimoire."
         },
@@ -327,32 +327,33 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         .book-title-link {
-            color: inherit;
+            color: #f0d086;
             text-decoration: none;
             transition: all 0.3s ease;
             position: relative;
+            cursor: pointer;
+            display: inline-block;
+            padding: 2px 4px;
+            border-radius: 4px;
         }
 
         .book-title-link:hover {
-            color: #9274ce;
+            color: #fff;
+            background-color: rgba(146, 116, 206, 0.4);
+            text-shadow: 0 0 8px rgba(255,255,255,0.6);
+            transform: scale(1.03);
         }
 
         .book-title-link:after {
-            content: '';
-            position: absolute;
-            width: 100%;
-            height: 2px;
-            bottom: -4px;
-            left: 0;
-            background-color: #9274ce;
-            transform: scaleX(0);
-            transform-origin: bottom right;
-            transition: transform 0.3s ease;
+            content: '🔗';
+            opacity: 0.7;
+            font-size: 0.7em;
+            margin-left: 5px;
+            vertical-align: super;
         }
 
         .book-title-link:hover:after {
-            transform: scaleX(1);
-            transform-origin: bottom left;
+            opacity: 1;
         }
     `;
     document.head.appendChild(style);
