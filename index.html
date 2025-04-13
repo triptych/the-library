@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Andrew Wooldridge - Author</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="library-background">
+            <div class="magical-particles"></div>
+            <header>
+                <h1>Andrew Wooldridge</h1>
+                <p class="tagline">Journey through worlds of imagination</p>
+            </header>
+
+            <main>
+                <section class="book-carousel-container">
+                    <div class="book-carousel">
+                        <!-- Books will be added here by JavaScript -->
+                    </div>
+
+                    <div class="instructions">
+                        <p>Click on a book to view details or use the controls below to navigate the carousel</p>
+                        <div class="keyboard-shortcuts">
+                            <span>Keyboard shortcuts:
+                                <kbd>←</kbd>
+                                Previous |
+                                <kbd>→</kbd>
+                                Next</span>
+                        </div>
+                    </div>
+
+                    <div class="carousel-controls">
+                        <button id="prev-btn" class="control-btn">Previous Book</button>
+                        <button id="next-btn" class="control-btn">Next Book</button>
+                    </div>
+
+                    <div class="book-info">
+                        <h2 id="book-title">Select a book to learn more</h2>
+                        <h3 id="book-subtitle"></h3>
+                        <p id="book-summary"></p>
+                    </div>
+                </section>
+            </main>
+
+            <footer>
+                <p>&copy; 2025 Andrew Wooldridge. All rights reserved.</p>
+            </footer>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
