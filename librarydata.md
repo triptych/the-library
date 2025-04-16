@@ -1,5 +1,16 @@
 # Library Data
 
+## The Chaos Sword
+**Author:** Andrew Wooldridge
+**Cover Image:** [The Chaos Sword.jpg](./The%20Chaos%20Sword.jpg)
+
+### Summary
+"The Chaos Sword" follows the journey of Lyra Nightwind, a quiet village girl who unwillingly bonds with an ancient, sentient sword after pirates destroy her home. Their tumultuous relationship transforms both of them as Lyra learns to assert herself and the sword (Kais) discovers the power of compassion beyond killing.
+
+When Captain Raven Blackwood, a ruthless pirate obsessed with collecting ancient artifacts, attacks Lyra's coastal village, she finds herself bonded to a mysterious sword that speaks in her mind. The sword—once known as Kaisidor, "Protector of Boundaries"—has been corrupted by centuries of violence and bloodshed.
+
+Together, they must learn to transform their forced bond into a partnership of trust as they confront Blackwood, who seeks to collect all four elemental artifacts to gain ultimate power. Along the way, they discover that protection, not destruction, is the true source of strength.
+
 ## The Librarian's Index
 **Author:** Andrew Wooldridge
 **Cover Image:** [The Librarian's Index.jpg](./The%20Librarian%27s%20Index.jpg)

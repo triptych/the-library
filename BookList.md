@@ -14,3 +14,4 @@
 [x] https://suffer-the-dragon.puter.site/website/ (https://suffer-the-dragon.puter.site/cover.jpg)
 [x] https://the-fallen-star.puter.site/ (https://the-fallen-star.puter.site/cover.png)
 [x] https://the-sigil.puter.site/ (https://the-sigil.puter.site/cover.jpg )
+[ ] https://the-chaos-sword.puter.site/ (https://the-chaos-sword.puter.site/cover2.jpg)

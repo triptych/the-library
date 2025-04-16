@@ -2,6 +2,13 @@ document.addEventListener('DOMContentLoaded', function() {
     // Book data from librarydata.md with URLs from BookList.md
     const books = [
         {
+            title: "The Chaos Sword",
+            author: "Andrew Wooldridge",
+            coverImage: "./The Chaos Sword.jpg",
+            url: "https://the-chaos-sword.puter.site/",
+            summary: "\"The Chaos Sword\" follows the journey of Lyra Nightwind, a quiet village girl who unwillingly bonds with an ancient, sentient sword after pirates destroy her home. Their tumultuous relationship transforms both of them as Lyra learns to assert herself and the sword (Kais) discovers the power of compassion beyond killing."
+        },
+        {
             title: "The Librarian's Index",
             author: "Andrew Wooldridge",
             coverImage: "./The Librarian's Index.jpg",
