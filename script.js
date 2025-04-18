@@ -113,6 +113,13 @@ document.addEventListener('DOMContentLoaded', function() {
             coverImage: "./The Sigil.jpg",
             url: "https://the-sigil.puter.site/",
             summary: "In a multiverse where technology and magic are indistinguishable, Dr. Marcus Vega is chosen by a mysterious entity known as the Sigil to captain an extraordinary vessel."
+        },
+        {
+            title: "Nine Lives: A Servant of Anubis",
+            author: "Andrew Wooldridge",
+            coverImage: "./Nine Lives.jpg",
+            url: "https://nine-lives.puter.site/",
+            summary: "Jake Harlow, a cynical but brilliant private detective in Boston, specializes in finding people who don't want to be found. When his investigation into missing Egyptian artifacts leads to his own murder, Jake awakens to find himself bound as a servant to Anubis, the Egyptian god of death—who manifests as a powerful, supernatural cat entity."
         }
     ];
 

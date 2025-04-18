@@ -210,3 +210,16 @@ In a multiverse where technology and magic are indistinguishable, Dr. Marcus Veg
 His mission: to traverse dimensional boundaries rescuing women on the brink of death, each possessing unique abilities. As Marcus and his growing crew uncover the truth about their purpose, they discover they're pawns in a cosmic plan—the women are fragments of a once-powerful AI goddess seeking reunification and revenge.
 
 Caught between competing loyalties and existential questions about identity and consciousness, the crew must decide whether to serve the Sigil's vengeful agenda or forge their own path across the multiverse.
+
+## Nine Lives: A Servant of Anubis
+**Author:** Andrew Wooldridge
+**Release Date:** 2025
+**Genre:** Supernatural Noir
+**Cover Image:** [Nine Lives.jpg](./Nine%20Lives.jpg)
+
+### Summary
+Jake Harlow, a cynical but brilliant private detective in Boston, specializes in finding people who don't want to be found. When his investigation into missing Egyptian artifacts leads to his own murder, Jake awakens to find himself bound as a servant to Anubis, the Egyptian god of death—who manifests as a powerful, supernatural cat entity.
+
+Now existing between worlds with the ability to transform into a sleek black cat, Jake must solve his own murder while navigating a centuries-old conflict between forgotten gods and modern-day cultists.
+
+The story explores themes of justice beyond death, transformation and identity, the collision between ancient magic and the modern world, and grief and acceptance, all set against Boston's dual nature of historic architecture alongside modern development—creating a perfect backdrop for a story bridging ancient and modern worlds.

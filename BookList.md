@@ -15,3 +15,4 @@
 [x] https://the-fallen-star.puter.site/ (https://the-fallen-star.puter.site/cover.png)
 [x] https://the-sigil.puter.site/ (https://the-sigil.puter.site/cover.jpg )
 [ ] https://the-chaos-sword.puter.site/ (https://the-chaos-sword.puter.site/cover2.jpg)
+[ ] https://nine-lives.puter.site/ (https://nine-lives.puter.site/cover.jpg)
