@@ -120,6 +120,13 @@ document.addEventListener('DOMContentLoaded', function() {
             coverImage: "./Nine Lives.jpg",
             url: "https://nine-lives.puter.site/",
             summary: "Jake Harlow, a cynical but brilliant private detective in Boston, specializes in finding people who don't want to be found. When his investigation into missing Egyptian artifacts leads to his own murder, Jake awakens to find himself bound as a servant to Anubis, the Egyptian god of death—who manifests as a powerful, supernatural cat entity."
+        },
+        {
+            title: "Bards of Discord",
+            author: "Andrew Wooldridge",
+            coverImage: "./Bards of Discord.jpg",
+            url: "https://bards-of-discord.puter.site/website/index.html",
+            summary: "A fantasy novel that explores the power of music in a world where melody and harmony can shape reality. Follow a group of misfit musicians who discover they can channel ancient magic through their modern instruments, leading to an epic confrontation between the forces of creation and destruction."
         }
     ];
 
@@ -290,6 +297,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Initialize
     setupCarousel();
+    // Ensure first book is properly focused on load
+    rotateCarousel(0);
 
     // Event listeners for carousel controls
     prevBtn.addEventListener('click', () => {

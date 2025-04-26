@@ -223,3 +223,10 @@ Jake Harlow, a cynical but brilliant private detective in Boston, specializes in
 Now existing between worlds with the ability to transform into a sleek black cat, Jake must solve his own murder while navigating a centuries-old conflict between forgotten gods and modern-day cultists.
 
 The story explores themes of justice beyond death, transformation and identity, the collision between ancient magic and the modern world, and grief and acceptance, all set against Boston's dual nature of historic architecture alongside modern development—creating a perfect backdrop for a story bridging ancient and modern worlds.
+
+## Bards of Discord
+**Author:** Andrew Wooldridge
+**Cover Image:** [Bards of Discord.jpg](./Bards%20of%20Discord.jpg)
+
+### Summary
+A fantasy novel that explores the power of music in a world where melody and harmony can shape reality. Follow a group of misfit musicians who discover they can channel ancient magic through their modern instruments, leading to an epic confrontation between the forces of creation and destruction.

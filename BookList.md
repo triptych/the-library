@@ -16,3 +16,5 @@
 [x] https://the-sigil.puter.site/ (https://the-sigil.puter.site/cover.jpg )
 [ ] https://the-chaos-sword.puter.site/ (https://the-chaos-sword.puter.site/cover2.jpg)
 [ ] https://nine-lives.puter.site/ (https://nine-lives.puter.site/cover.jpg)
+
+[ ] https://bards-of-discord.puter.site/website/index.html (https://bards-of-discord.puter.site/cover.jpg)
