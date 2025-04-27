@@ -229,4 +229,17 @@ The story explores themes of justice beyond death, transformation and identity, 
 **Cover Image:** [Bards of Discord.jpg](./Bards%20of%20Discord.jpg)
 
 ### Summary
-A fantasy novel that explores the power of music in a world where melody and harmony can shape reality. Follow a group of misfit musicians who discover they can channel ancient magic through their modern instruments, leading to an epic confrontation between the forces of creation and destruction.
+In the ancient elven metropolis of Harmonyvale, where crystal spires stretch toward the perpetually twilit sky, Princess Ariala Silverbough faces a terrible fate: inheriting the Eternal Throne of Harmonious Governance and spending the next 3,000 years presiding over polite lute recitals.
+
+But Ariala harbors a scandalous secret: she's been experimenting with an abominable contraption—something the humans call an "electric guitar." And worse, she's written songs with distortion and power chords.
+
+Join the Bards of Discord as they embark on a quest for the Ultimate Song—a melody so powerful it can reshape reality itself. Armed with the Amp of Amplification, the Pick of Destiny, and the Reverb Pedal of Reality, this unlikely band must face the ancient evil Discordius in an ultimate Battle of the Bands that will determine the fate of all realms.
+
+## Nightwing Academy
+**Author:** Andrew Wooldridge
+**Cover Image:** [Nightwing Academy.jpg](./Nightwing%20Academy.jpg)
+
+### Summary
+In a Victorian-era steampunk city shrouded in perpetual winter, fifteen-year-old Evelyn "Eve" Blackwood's life changes forever when a case of mistaken identity leads to her discovery of an extraordinary ability: she can transform into a snowy owl.
+
+Recruited into the mysterious Nightwing Academy, Eve finds herself in a hidden world of were-raptors, clockwork surveillance ravens, and ancient prophecies. As she learns to master her newfound powers alongside other shapeshifting students, she uncovers dark secrets about the city's eternal winter and her own destiny.
