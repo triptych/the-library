@@ -243,3 +243,13 @@ Join the Bards of Discord as they embark on a quest for the Ultimate Song—a me
 In a Victorian-era steampunk city shrouded in perpetual winter, fifteen-year-old Evelyn "Eve" Blackwood's life changes forever when a case of mistaken identity leads to her discovery of an extraordinary ability: she can transform into a snowy owl.
 
 Recruited into the mysterious Nightwing Academy, Eve finds herself in a hidden world of were-raptors, clockwork surveillance ravens, and ancient prophecies. As she learns to master her newfound powers alongside other shapeshifting students, she uncovers dark secrets about the city's eternal winter and her own destiny.
+
+## The Gateway
+**Author:** Andrew Wooldridge
+**Genre:** Young Adult Fantasy Novel
+**Cover Image:** [The Gateway.png](./The%20Gateway.png)
+
+### Summary
+When 15-year-old Maya reluctantly spends her summer at her grandmother's remote ranch in Northern New Mexico, she discovers her family's centuries-old secret: they guard a magical gateway to a realm of elves, fairies, and monsters.
+
+Just as Maya begins her training as a Guardian, the dormant gate awakens, bringing a wounded elven prince and ancient dangers that force her to embrace powers she never knew she possessed. Now Maya must bridge two worlds and prevent a war that could destroy them both.
