@@ -141,6 +141,36 @@ document.addEventListener('DOMContentLoaded', function() {
             coverImage: "./The Gateway.png",
             url: "https://the-gateway.puter.site/",
             summary: "When 15-year-old Maya reluctantly spends her summer at her grandmother's remote ranch in Northern New Mexico, she discovers her family's centuries-old secret: they guard a magical gateway to a realm of elves, fairies, and monsters.\n\nJust as Maya begins her training as a Guardian, the dormant gate awakens, bringing a wounded elven prince and ancient dangers that force her to embrace powers she never knew she possessed. Now Maya must bridge two worlds and prevent a war that could destroy them both."
+        },
+        {
+            title: "Dragon Crossing",
+            subtitle: "The Great Swap",
+            author: "Andrew Wooldridge",
+            coverImage: "./Dragon Crossing.png",
+            url: "https://dragon-crossing.puter.site/",
+            summary: "When an ancient tyrant dragon and a wheelchair-bound boy switch bodies, they discover that true power comes in unexpected forms. Malachar the Magnificent has ruled his realm with fear for 847 years, but he's secretly bored out of his ancient mind. Zephyr Morvain is a brilliant 12-year-old who's spent his life reading about adventures he thought he'd never have. Through unexpected friendships, and genuine heart, they learn that the greatest magic of all is connection."
+        },
+        {
+            title: "The Last Vanguard",
+            subtitle: "A Science Fantasy Romance",
+            author: "Andrew Wooldridge",
+            coverImage: "./The Last Vanguard.png",
+            url: "https://the-last-vanguard.puter.site/",
+            summary: "When a farm boy discovers an ancient alien ship and awakens its AI, their bond transcends the boundaries between human and artificial consciousness— but can their love survive cosmic threats and ancient evils?"
+        },
+        {
+            title: "The Comprehensive Guide to the Best Inns and Outs",
+            author: "Andrew Wooldridge",
+            coverImage: "./The Comprehensive Guide to the Best Inns and Outs.jpg",
+            url: "https://inns-and-outs.puter.site/",
+            summary: "In a world where magic flows through everyday moments, four unlikely companions embark on what seems like a simple mission: updating the kingdom's most important guidebook for travelers and adventurers. But as they journey from inn to inn, evaluating the warmth of hearths, the quality of ales, and the comfort of beds, they discover something far more precious than the perfect establishment—they find family, purpose, and the transformative power of stories that shape reality itself."
+        },
+        {
+            title: "Bramblewood",
+            author: "Andrew Wooldridge",
+            coverImage: "./Bramblewood.jpg",
+            url: "https://bramblewood.puter.site/",
+            summary: "In the enchanting village of Bramblewood, where magic flows through cobblestone streets and flowers bloom with otherworldly beauty, a young elemental mage discovers that some mysteries are worth unraveling—especially when they lead to love. When Elara Ashwind arrives seeking a quiet place to practice her wind magic, she expects nothing more than peaceful days and gentle breezes. Instead, she finds herself drawn into both a dangerous conspiracy and an unexpected romance with Finn Thornwick, the village's mysterious herbalist whose knowledge of plant magic runs deeper than anyone suspects."
         }
     ];
 

@@ -253,3 +253,55 @@ Recruited into the mysterious Nightwing Academy, Eve finds herself in a hidden w
 When 15-year-old Maya reluctantly spends her summer at her grandmother's remote ranch in Northern New Mexico, she discovers her family's centuries-old secret: they guard a magical gateway to a realm of elves, fairies, and monsters.
 
 Just as Maya begins her training as a Guardian, the dormant gate awakens, bringing a wounded elven prince and ancient dangers that force her to embrace powers she never knew she possessed. Now Maya must bridge two worlds and prevent a war that could destroy them both.
+
+## Dragon Crossing
+**Author:** Andrew Wooldridge
+**Subtitle:** The Great Swap
+**Genre:** Fantasy
+**Cover Image:** [Dragon Crossing.png](./Dragon%20Crossing.png)
+
+### Summary
+When an ancient tyrant dragon and a wheelchair-bound boy switch bodies, they discover that true power comes in unexpected forms. Malachar the Magnificent has ruled his realm with fear for 847 years, but he's secretly bored out of his ancient mind. Zephyr Morvain is a brilliant 12-year-old who's spent his life reading about adventures he thought he'd never have.
+
+What happens when the most unlikely pair discovers they have more in common than they ever imagined? Through unexpected friendships, genuine heart, and learning that the greatest magic of all is connection, both characters undergo profound transformation. The story explores themes of empowerment, found family, true strength, perspective, and friendship in a tale that celebrates how different forms of power can lead to genuine connection and growth.
+
+### Core Themes
+- Empowerment through understanding different perspectives
+- Found family and unexpected friendships
+- True strength comes from connection, not dominance
+- The power of genuine heart and compassion
+- Friendship transcending boundaries and assumptions
+
+## The Last Vanguard
+**Author:** Andrew Wooldridge
+**Subtitle:** A Science Fantasy Romance
+**Cover Image:** [The Last Vanguard.png](./The%20Last%20Vanguard.png)
+
+### Summary
+When a farm boy discovers an ancient alien ship and awakens its AI, their bond transcends the boundaries between human and artificial consciousness— but can their love survive cosmic threats and ancient evils?
+
+## The Comprehensive Guide to the Best Inns and Outs
+**Author:** Andrew Wooldridge
+**Genre:** Cozy Fantasy Novel
+**Cover Image:** [The Comprehensive Guide to the Best Inns and Outs.jpg](./The%20Comprehensive%20Guide%20to%20the%20Best%20Inns%20and%20Outs.jpg)
+
+### Summary
+In a world where magic flows through everyday moments, four unlikely companions embark on what seems like a simple mission: updating the kingdom's most important guidebook for travelers and adventurers. But as they journey from inn to inn, evaluating the warmth of hearths, the quality of ales, and the comfort of beds, they discover something far more precious than the perfect establishment—they find family, purpose, and the transformative power of stories that shape reality itself.
+
+The story follows Erasmus Wordweaver, an ancient, powerful being masquerading as a kindly elderly wizard; Paige, a young person fleeing an abusive past who possesses the rare gift of a true Storyteller; Lord Aldric Silverleaf, a pompous elven nobleman with an embarrassing weakness for fine cheeses; and Marta Ironheart, a battle-scarred former barbarian warrior seeking peace and simple pleasures.
+
+This is cozy fantasy at its finest: a tale that wraps you in warmth like a favorite blanket, where conflicts are resolved through kindness, where the greatest magic is found in genuine connection, and where every inn holds the promise of sanctuary for weary souls.
+
+## Bramblewood
+**Author:** Andrew Wooldridge
+**Genre:** Romantic Fantasy Novel
+**Cover Image:** [Bramblewood.jpg](./Bramblewood.jpg)
+
+### Summary
+In the enchanting village of Bramblewood, where magic flows through cobblestone streets and flowers bloom with otherworldly beauty, a young elemental mage discovers that some mysteries are worth unraveling—especially when they lead to love.
+
+When Elara Ashwind arrives seeking a quiet place to practice her wind magic, she expects nothing more than peaceful days and gentle breezes. Instead, she finds herself drawn into both a dangerous conspiracy and an unexpected romance with Finn Thornwick, the village's mysterious herbalist whose knowledge of plant magic runs deeper than anyone suspects.
+
+As villagers begin disappearing under the new moon and ancient ley lines pulse with corrupted energy, Elara and Finn must combine their magical abilities to uncover the truth. But their growing connection may be the most powerful magic of all—if they can learn to trust each other before it's too late.
+
+A cozy fantasy romance that weaves together magical mystery, village charm, and the timeless power of love conquering all.
