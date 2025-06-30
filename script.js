@@ -204,6 +204,13 @@ document.addEventListener('DOMContentLoaded', function() {
     // Adjust radius based on screen size for better mobile experience
     const radius = window.innerWidth < 768 ? 300 : 400; // Distance from center
 
+    // Auto-scroll state
+    let autoScrollTimer = null;
+    let inactivityTimer = null;
+    let isAutoScrolling = false;
+    const INACTIVITY_DELAY = 10000; // 10 seconds
+    const AUTO_SCROLL_INTERVAL = 10000; // 10 seconds between scrolls
+
     // Create book elements and position them in a circle
     function setupCarousel() {
         books.forEach((book, index) => {
@@ -270,6 +277,44 @@ document.addEventListener('DOMContentLoaded', function() {
     // Handle user selecting a book
     function selectBook(index) {
         rotateCarousel(index);
+        resetAutoScrollTimer(); // Reset timer on user interaction
+    }
+
+    // Auto-scroll functions
+    function startAutoScroll() {
+        if (isAutoScrolling) return;
+
+        isAutoScrolling = true;
+        autoScrollTimer = setInterval(() => {
+            const nextIndex = (currentBook + 1) % totalBooks;
+            rotateCarousel(nextIndex);
+        }, AUTO_SCROLL_INTERVAL);
+    }
+
+    function stopAutoScroll() {
+        if (autoScrollTimer) {
+            clearInterval(autoScrollTimer);
+            autoScrollTimer = null;
+        }
+        isAutoScrolling = false;
+    }
+
+    function resetAutoScrollTimer() {
+        // Clear existing timers
+        stopAutoScroll();
+        if (inactivityTimer) {
+            clearTimeout(inactivityTimer);
+        }
+
+        // Start new inactivity timer
+        inactivityTimer = setTimeout(() => {
+            startAutoScroll();
+        }, INACTIVITY_DELAY);
+    }
+
+    // User activity detection
+    function handleUserActivity() {
+        resetAutoScrollTimer();
     }
 
     // Update book information panel
@@ -358,15 +403,20 @@ document.addEventListener('DOMContentLoaded', function() {
     // Ensure first book is properly focused on load
     rotateCarousel(0);
 
+    // Start the auto-scroll timer
+    resetAutoScrollTimer();
+
     // Event listeners for carousel controls
     prevBtn.addEventListener('click', () => {
         const prevIndex = (currentBook - 1 + totalBooks) % totalBooks;
         rotateCarousel(prevIndex);
+        resetAutoScrollTimer(); // Reset timer on user interaction
     });
 
     nextBtn.addEventListener('click', () => {
         const nextIndex = (currentBook + 1) % totalBooks;
         rotateCarousel(nextIndex);
+        resetAutoScrollTimer(); // Reset timer on user interaction
     });
 
     // Add keyboard navigation
@@ -374,11 +424,20 @@ document.addEventListener('DOMContentLoaded', function() {
         if (e.key === 'ArrowLeft') {
             const prevIndex = (currentBook - 1 + totalBooks) % totalBooks;
             rotateCarousel(prevIndex);
+            resetAutoScrollTimer(); // Reset timer on user interaction
         } else if (e.key === 'ArrowRight') {
             const nextIndex = (currentBook + 1) % totalBooks;
             rotateCarousel(nextIndex);
+            resetAutoScrollTimer(); // Reset timer on user interaction
         }
     });
+
+    // Add user activity detection for mouse movement and clicks
+    document.addEventListener('mousemove', handleUserActivity);
+    document.addEventListener('click', handleUserActivity);
+    document.addEventListener('scroll', handleUserActivity);
+    document.addEventListener('touchstart', handleUserActivity);
+    document.addEventListener('touchmove', handleUserActivity);
 
     // Add a bit of magic - subtle random rotations
     setInterval(() => {
