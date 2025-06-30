@@ -24,3 +24,5 @@
 [x] https://the-last-vanguard.puter.site/ (https://the-last-vanguard.puter.site/cover.png)
 [x] https://inns-and-outs.puter.site/ (https://inns-and-outs.puter.site/cover.jpg)
 [x] https://bramblewood.puter.site/ (https://bramblewood.puter.site/cover.jpg)
+[x] https://clarity.puter.site/ (https://clarity.puter.site/cover.jpg)
+[x] https://the-unbroken.puter.site/ (https://the-unbroken.puter.site/cover.png)

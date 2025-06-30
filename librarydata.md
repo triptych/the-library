@@ -305,3 +305,49 @@ When Elara Ashwind arrives seeking a quiet place to practice her wind magic, she
 As villagers begin disappearing under the new moon and ancient ley lines pulse with corrupted energy, Elara and Finn must combine their magical abilities to uncover the truth. But their growing connection may be the most powerful magic of all—if they can learn to trust each other before it's too late.
 
 A cozy fantasy romance that weaves together magical mystery, village charm, and the timeless power of love conquering all.
+
+## Clarity
+**Author:** Andrew Wooldridge
+**Genre:** Dark Fantasy Novel
+**Cover Image:** [Clarity.jpg](./Clarity.jpg)
+
+### Summary
+In a world torn apart by magical warfare, can even the darkest soul find redemption?
+
+In a world ravaged by endless magical warfare, where powerful sorcerers wage devastating battles with no regard for the innocent, stands The Lighthouse—a sanctuary castle built on an ocean outcropping, serving as a refuge for any creature seeking healing from the horrors of war.
+
+When the legendary dark sorceress known as the Raven falls from the sky, broken and dying after a catastrophic battle, she crashes near this sanctuary. Brand, the master healer who leads The Lighthouse, makes a choice that will change everything: he will heal her, regardless of her fearsome reputation.
+
+What follows is an extraordinary journey of redemption, as the most feared sorceress and the healer who believes in second chances discover that even in the peaceful sanctuary of The Lighthouse, the Raven begins to transform—but can someone so steeped in darkness truly find the light?
+
+This is a story about second chances, the transformative power of unconditional love, and the belief that no one—no matter how far they have fallen—is beyond redemption.
+
+### Themes
+- Redemption and second chances
+- The transformative power of unconditional love
+- Healing from trauma and war
+- Finding light in darkness
+- The sanctuary of safe spaces
+
+## The Unbroken
+**Author:** Andrew Wooldridge
+**Genre:** Dark Fantasy Novel
+**Cover Image:** [The Unbroken.png](./The%20Unbroken.png)
+
+### Summary
+In a world where magic exacts a price, and ancient powers stir in the ruins of civilization, Tyria is a Caster. She can command the Broken to her will with just a thought. The Broken are remnants of a magic long lost to time, fragments of a war so far distant no one even knows its origin. But the Broken exact a price, and unliving assassins hunt her with every Casting she makes.
+
+Tyria Voss is a young woman who can command the Broken with her will, but every use of her power draws the attention of deadly Trackers. Scarred by loss and hardened by survival, she must learn to trust and love while wielding ancient magic.
+
+Guided by Valorian, once the most powerful Caster of his age, now existing as fragmented consciousness scattered across the realm after being betrayed centuries ago while trying to stop an ancient AI, Tyria moves toward a destiny that could heal or destroy the world.
+
+### Characters
+- **Tyria Voss (The Caster):** A young woman who can command the Broken with her will, but every use of her power draws the attention of deadly Trackers. Scarred by loss and hardened by survival, she must learn to trust and love while wielding ancient magic.
+- **Valorian (The Archmage):** Once the most powerful Caster of his age, now existing as fragmented consciousness scattered across the realm. Betrayed centuries ago while trying to stop an ancient AI, he guides Tyria toward a destiny that could heal or destroy the world.
+
+### Themes
+- The price of power
+- Ancient magic and lost civilizations
+- Survival and trust
+- Love in the face of danger
+- Redemption and destiny
