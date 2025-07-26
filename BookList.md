@@ -26,8 +26,11 @@
 [x] https://bramblewood.puter.site/ - **Bramblewood** by Andrew Wooldridge
 [x] https://clarity.puter.site/ - **Clarity** by Andrew Wooldridge
 [x] https://the-unbroken.puter.site/ - **The Unbroken** by Andrew Wooldridge
+[x] https://a-familiar-feeling.puter.site/ - **A Familiar Feeling** by Andrew Wooldridge
+[x] https://toy-wars.puter.site/ - **Toy Wars: A Romantic Comedy Fantasy** by Andrew Wooldridge
+[x] https://undead-groundskeeper.puter.site/ - **The Undead Groundskeeper: A Cozy Fantasy Romance** by Andrew Wooldridge
 
 ## Summary
-Total novels: **26**
+Total novels: **29**
 All novels are complete and published online with dedicated websites.
 Author: Andrew Wooldridge

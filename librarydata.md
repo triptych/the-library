@@ -351,3 +351,69 @@ Guided by Valorian, once the most powerful Caster of his age, now existing as fr
 - Survival and trust
 - Love in the face of danger
 - Redemption and destiny
+
+## A Familiar Feeling
+**Author:** Andrew Wooldridge
+**Genre:** Cozy Fantasy
+**Cover Image:** [A Familiar Feeling.png](./A%20Familiar%20Feeling.png)
+
+### Summary
+Step into the enchanted village of Willowbrook, where magic flows through everyday moments and found family creates the strongest bonds. Follow Hazel Thornwick, a young witch with an oversized hat and an even bigger heart, as she discovers her destiny caring for abandoned magical familiars at the Familiar Orphanage.
+
+When mysterious forces threaten the peaceful village and the prestigious Celestial Academy, Hazel must learn that the most powerful magic isn't found in grand spells, but in the connections we build with those we love. Joined by magical residents including Pip (a tiny dragon who hiccups sparks when nervous), Sage (an ancient silver owl with prophetic dreams), and Finn Ashworth (a mysterious handyman and baker with storm magic), Hazel embarks on a heartwarming journey.
+
+This cozy fantasy celebrates community, second chances, and the extraordinary magic hidden in ordinary acts of kindness.
+
+### Themes
+- Found family and community
+- The magic of everyday kindness
+- Caring for abandoned creatures
+- Second chances and belonging
+- The power of connection over grand magic
+
+## Toy Wars
+**Author:** Andrew Wooldridge
+**Subtitle:** A Romantic Comedy Fantasy
+**Genre:** Fantasy Romance Comedy Young Adult Magic Fairy Tale
+**Pages:** 350
+**Chapters:** 35
+**Word Count:** 98,000
+**Rating:** All Ages
+**Cover Image:** [Toy Wars.jpg](./Toy%20Wars.jpg)
+
+### Summary
+Meet Elara Brightwood, an 18-year-old toymaker with wild curly hair and the magical ability to bring her creations to life. Living in exile on Seashell Island, she's built a sanctuary filled with animated friends including Mr. Buttons (a wise teddy bear with tiny spectacles), Herbert (a philosophical ceramic rabbit who tends the vegetable garden while having existential crises), and many others.
+
+When three princes arrive seeking her hand in marriage—each with their own misguided approach to romance—Elara must navigate their courtship attempts while staying true to herself. Prince Darius believes "conquest equals courtship," Prince Roderick thinks "luxury equals love," and Prince Adrian, the gentle soufflé-obsessed prince, believes "perfect food equals perfect love."
+
+This romantic comedy fantasy explores themes of self-acceptance and creativity, found family and true love, overcoming prejudice, and the power of kindness. Set in a world where the line between the magical and mundane has been "thoroughly erased, scribbled over, and replaced with something that could only be described as 'creatively chaotic,'" Toy Wars is a heartwarming tale of love, laughter, and the magic of being yourself.
+
+### Themes
+- Self-acceptance & creativity
+- Found family & true love
+- Overcoming prejudice
+- The power of kindness
+
+## The Undead Groundskeeper
+**Author:** Andrew Wooldridge
+**Subtitle:** A Cozy Fantasy Romance
+**Genre:** Cozy Fantasy Romance Gothic Romance
+**Chapters:** 16
+**Cover Image:** [The Undead Groundskeeper.jpeg](./The%20Undead%20Groundskeeper.jpeg)
+
+### Summary
+When an undead prince awakens in an overgrown cemetery, he feels an inexplicable compulsion to restore the sacred ground to its former glory. What begins as tending forgotten graves becomes a journey of self-discovery, community restoration, and ultimately, a quest for true love that could break an ancient curse.
+
+This is not a tale of horror, but of hope. The Undead Groundskeeper blends supernatural elements with warmth and comfort, creating a cozy fantasy atmosphere that invites readers into a world where love, dedication, and community can overcome even the darkest curses.
+
+The story follows the prince's journey through awakening and finding purpose in sacred ground, restoring life to a cursed realm, discovering the truth behind an ancient curse born of spurned love, embarking on a quest for redemption in the living world, and ultimately finding that true love has the power to heal all wounds.
+
+Perfect for readers who enjoy Gothic romance with a gentle touch, stories of transformation and hope, and supernatural romance that emphasizes healing over horror.
+
+### Themes
+- Redemption through service
+- Love conquers all
+- Community & belonging
+- Transformation and rebirth
+- Sacred duty and memory
+- Healing over horror

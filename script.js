@@ -185,6 +185,29 @@ document.addEventListener('DOMContentLoaded', function() {
             coverImage: "./The Unbroken.png",
             url: "https://the-unbroken.puter.site/",
             summary: "In a world where magic exacts a price, and ancient powers stir in the ruins of civilization, Tyria is a Caster. She can command the Broken to her will with just a thought. The Broken are remnants of a magic long lost to time, fragments of a war so far distant no one even knows its origin. But the Broken exact a price, and unliving assassins hunt her with every Casting she makes. A young woman who can command the Broken with her will, but every use of her power draws the attention of deadly Trackers. Scarred by loss and hardened by survival, she must learn to trust and love while wielding ancient magic."
+        },
+        {
+            title: "A Familiar Feeling",
+            author: "Andrew Wooldridge",
+            coverImage: "./A Familiar Feeling.png",
+            url: "https://a-familiar-feeling.puter.site/",
+            summary: "Step into the enchanted village of Willowbrook, where magic flows through everyday moments and found family creates the strongest bonds. Follow Hazel Thornwick, a young witch with an oversized hat and an even bigger heart, as she discovers her destiny caring for abandoned magical familiars at the Familiar Orphanage. When mysterious forces threaten the peaceful village and the prestigious Celestial Academy, Hazel must learn that the most powerful magic isn't found in grand spells, but in the connections we build with those we love."
+        },
+        {
+            title: "Toy Wars",
+            subtitle: "A Romantic Comedy Fantasy",
+            author: "Andrew Wooldridge",
+            coverImage: "./Toy Wars.jpg",
+            url: "https://toy-wars.puter.site/",
+            summary: "Meet Elara Brightwood, an 18-year-old toymaker with wild curly hair and the magical ability to bring her creations to life. Living in exile on Seashell Island, she's built a sanctuary filled with animated friends including Mr. Buttons (a wise teddy bear with tiny spectacles), Herbert (a philosophical ceramic rabbit who tends the vegetable garden while having existential crises), and many others. When three princes arrive seeking her hand in marriage—each with their own misguided approach to romance—Elara must navigate their courtship attempts while staying true to herself. This romantic comedy fantasy explores themes of self-acceptance and creativity, found family and true love, overcoming prejudice, and the power of kindness."
+        },
+        {
+            title: "The Undead Groundskeeper",
+            subtitle: "A Cozy Fantasy Romance",
+            author: "Andrew Wooldridge",
+            coverImage: "./The Undead Groundskeeper.jpeg",
+            url: "https://undead-groundskeeper.puter.site/",
+            summary: "When an undead prince awakens in an overgrown cemetery, he feels an inexplicable compulsion to restore the sacred ground to its former glory. What begins as tending forgotten graves becomes a journey of self-discovery, community restoration, and ultimately, a quest for true love that could break an ancient curse. This is not a tale of horror, but of hope. The Undead Groundskeeper blends supernatural elements with warmth and comfort, creating a cozy fantasy atmosphere that invites readers into a world where love, dedication, and community can overcome even the darkest curses."
         }
     ];
 
