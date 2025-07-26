@@ -2,7 +2,8 @@
 
 ## The Chaos Sword
 **Author:** Andrew Wooldridge
-**Cover Image:** [The Chaos Sword.jpg](./The%20Chaos%20Sword.jpg)
+**URL:** https://the-chaos-sword.puter.site/
+**Cover Image:** [The Chaos Sword.jpg](./img/The%20Chaos%20Sword.jpg)
 
 ### Summary
 "The Chaos Sword" follows the journey of Lyra Nightwind, a quiet village girl who unwillingly bonds with an ancient, sentient sword after pirates destroy her home. Their tumultuous relationship transforms both of them as Lyra learns to assert herself and the sword (Kais) discovers the power of compassion beyond killing.
@@ -13,7 +14,8 @@ Together, they must learn to transform their forced bond into a partnership of t
 
 ## The Librarian's Index
 **Author:** Andrew Wooldridge
-**Cover Image:** [The Librarian's Index.jpg](./The%20Librarian%27s%20Index.jpg)
+**URL:** https://librarians-index.puter.site/
+**Cover Image:** [The Librarian's Index.jpg](./img/The%20Librarian%27s%20Index.jpg)
 
 ### Summary
 When 26-year-old Mira Thornfield is mysteriously chosen as the next Head Librarian of the grand Everscript Library, she discovers this is no ordinary collection of books. The shelves rearrange themselves at night, books whisper their secrets, and the ancient magical Index has manifested as a handsome, slightly awkward young man who calls himself Paige.
@@ -25,7 +27,8 @@ With each book it consumes, it grows larger and more dangerous, threatening not 
 ## Gears and Spirits
 **Author:** Andrew Wooldridge
 **Subtitle:** A Tinker's Tale
-**Cover Image:** [Gears and Spirits.jpeg](./Gears%20and%20Spirits.jpeg)
+**URL:** https://gears-and-spirits.puter.site/
+**Cover Image:** [Gears and Spirits.jpeg](./img/Gears%20and%20Spirits.jpeg)
 
 ### Summary
 In the charming seaside town of Saltwhisper Cove, where fishing boats bob gently in the harbor and seagulls sing with the morning tide, twenty-two-year-old Pippa Cogsworth arrives with her wagon full of peculiar tools and half-finished inventions. Fresh from completing her apprenticeship with the renowned Master Tinker of Clockhaven, Pippa has answered the town council's request for a skilled tinker to help modernize their quaint but outdated fishing equipment.
@@ -40,10 +43,11 @@ In the final confrontation, it's not just their powers but their growing bonds t
 
 ## The Dark Lord's Bed & Breakfast
 **Author:** Andrew Wooldridge
+**URL:** https://dark-lord-bed-breakfast.puter.site/
 **Genre:** Fantasy, Humor, Dark Fantasy
 **Publication:** 2025, Self-published
 **Pages:** 320
-**Cover Image:** [The Dark Lord's Bed & Breakfast.png](./The%20Dark%20Lord%27s%20Bed%20%26%20Breakfast.png)
+**Cover Image:** [The Dark Lord's Bed & Breakfast.png](./img/The%20Dark%20Lord%27s%20Bed%20%26%20Breakfast.png)
 
 ### Summary
 When the infamous Dark Lord finds himself forced into early retirement, he converts his ominous fortress into a bed and breakfast. What follows is an unexpected journey as the former villain navigates the hospitality industry, deals with quirky guests, and perhaps discovers that providing comfort can be as satisfying as spreading fear.
@@ -57,8 +61,9 @@ When the infamous Dark Lord finds himself forced into early retirement, he conve
 
 ## A Witch on the Line
 **Author:** Andrew Wooldridge
+**URL:** https://a-witch-on-the-line.puter.site/
 **Series:** Book One of The Resonant Pairs Trilogy
-**Cover Image:** [A Witch.png](./A%20Witch.png)
+**Cover Image:** [A Witch.png](./img/A%20Witch.png)
 
 ### Summary
 A thriller/urban fantasy novel about Thomas Walker, a devout Christian and widower, who discovers a mysterious cell phone at a yard sale that connects him to Willow Blackwood, a young witch held captive by a secret government organization called Project Grimoire.
@@ -66,14 +71,18 @@ A thriller/urban fantasy novel about Thomas Walker, a devout Christian and widow
 As Thomas embarks on a cross-country journey to rescue her, he discovers his own latent magical abilities and must reconcile his faith with a world far more complex than he ever imagined.
 
 ## The Enchanted Teahouse
+**Author:** Andrew Wooldridge
+**URL:** https://enchanted-tea-house.puter.site/
 **Genre:** Fantasy
-**Cover Image:** [The Enchanted Teahouse.jpg](./The%20Enchanted%20Teahouse.jpg)
+**Cover Image:** [The Enchanted Teahouse.jpg](./img/The%20Enchanted%20Teahouse.jpg)
 
 ### Summary
 A fantasy novel where tea brewing becomes a gateway to magic, family secrets are steeped in mystery, and a small town holds enchantments beyond imagination. Follow the journey through Misthollow as ancient traditions, magical brews, and unexpected alliances come together in a tale of discovery, courage, and the power of heritage.
 
 ## The Magical Herbalist's Apprentice
-**Cover Image:** [The Magical Herbalist's Apprentice.png](./The%20Magical%20Herbalist%27s%20Apprentice.png)
+**Author:** Andrew Wooldridge
+**URL:** https://magical-herbalists-apprentice.puter.site/
+**Cover Image:** [The Magical Herbalist's Apprentice.png](./img/The%20Magical%20Herbalist%27s%20Apprentice.png)
 
 ### Summary
 In the village of Haven's Root, nineteen-year-old Sage Hawthorn serves as apprentice to Mistress Vervain, the local herbalist. During a routine dawn gathering of herbs, Sage discovers she can hear plants speak - a gift that runs in her family but manifests differently for each generation.
@@ -90,7 +99,8 @@ The tale weaves together elements of cozy fantasy, romance, and magical discover
 
 ## Mistweaver
 **Author:** Andrew Wooldridge
-**Cover Image:** [Mistweaver.png](./Mistweaver.png)
+**URL:** https://mistweaver.puter.site/
+**Cover Image:** [Mistweaver.png](./img/Mistweaver.png)
 
 ### Summary
 When 30-year-old Mai Nguyen discovers an ancient box while diving near her coastal hometown, she accidentally releases the 22 Major Arcana tarot cards into the world—each a powerful magical entity with its own agenda. Saving only The High Priestess card, Mai discovers she has become a "Mistweaver," someone who can harness the magic of these entities.
@@ -99,8 +109,9 @@ As the most powerful card—The Fool—begins manipulating events from the shado
 
 ## Mountain Odyssey
 **Author:** Andrew Wooldridge
+**URL:** https://mountain-odyssey.puter.site/
 **Genre:** Romantasy Novel
-**Cover Image:** [Mountain Odyssey.png](./Mountain%20Odyssey.png)
+**Cover Image:** [Mountain Odyssey.png](./img/Mountain%20Odyssey.png)
 
 ### Summary
 In the treacherous peaks where magic flows like the mountain winds, two souls with opposing powers find themselves bound by fate and drawn together by an undeniable connection.
@@ -120,8 +131,9 @@ As they journey through the breathtaking yet deadly Silvercloud and Blackspine M
 
 ## Reborn as a Boat
 **Author:** Andrew Wooldridge
+**URL:** https://reborn-as-a-boat.puter.site/
 **Genre:** Cozy Fantasy
-**Cover Image:** [Reborn as a Boat.jpg](./Reborn%20as%20a%20Boat.jpg)
+**Cover Image:** [Reborn as a Boat.jpg](./img/Reborn%20as%20a%20Boat.jpg)
 
 ### Summary
 A cozy fantasy tale of identity, friendship, and finding home in unexpected places.
@@ -132,8 +144,9 @@ Joined by Kaia, a young fire elemental running from her overprotective father, a
 
 ## The Shrine Gentleman
 **Author:** Andrew Wooldridge
+**URL:** https://shrine-gentleman.puter.site/
 **Genre:** Romantasy Novel
-**Cover Image:** [The Shrine Gentleman.jpg](./The%20Shrine%20Gentleman.jpg)
+**Cover Image:** [The Shrine Gentleman.jpg](./img/The%20Shrine%20Gentleman.jpg)
 
 ### Summary
 In the mystical valley of Lunaria, where the silver light of the Moon Goddess Selene has blessed the land for centuries, a fateful mistake changes the course of destiny. Riven Blackthorn, a legendary hunter known for his unmatched skill and cold demeanor, accidentally kills Lyra, the revered Shrine Maiden, while pursuing a sacred stag through the forbidden forest.
@@ -144,8 +157,9 @@ When the fearsome Ashborne Horde threatens to destroy the shrine and consume Sel
 
 ## Starlight Salvage
 **Author:** Andrew Wooldridge
+**URL:** https://starlight-salvage.puter.site/website/index.html
 **Genre:** Cozy Space Fantasy
-**Cover Image:** [Starlight Salvage.png](./Starlight%20Salvage.png)
+**Cover Image:** [Starlight Salvage.png](./img/Starlight%20Salvage.png)
 
 ### Summary
 In the far reaches of the Cerulean Nebula, on the junk planet of Scrapheap, 23-year-old Eliza "Tink" Tinkerson spends her days sifting through mountains of discarded technology. Unlike the other salvagers who search for valuable parts to trade, Tink sees potential in every broken gadget and forgotten machine.
@@ -156,8 +170,9 @@ Join Tink and her quirky companions on a journey of self-discovery as they piece
 
 ## Stellar Tides
 **Author:** Andrew Wooldridge
+**URL:** https://stellar-tides.puter.site/
 **Genre:** Cozy Space Adventure
-**Cover Image:** [Stellar Tides.png](./Stellar%20Tides.png)
+**Cover Image:** [Stellar Tides.png](./img/Stellar%20Tides.png)
 
 ### Summary
 Welcome to the world of Stellar Tides, a cozy space fantasy novel that blends magic and technology in a universe where floating islands drift through perpetual twilight skies streaked with aurora ribbons.
@@ -168,7 +183,8 @@ As they uncover ancient secrets and confront the corrupt Governor Magnus Vex, Or
 
 ## Suffer the Dragon
 **Author:** Andrew Wooldridge
-**Cover Image:** [Suffer the Dragon.jpg](./Suffer%20the%20Dragon.jpg)
+**URL:** https://suffer-the-dragon.puter.site/website/
+**Cover Image:** [Suffer the Dragon.jpg](./img/Suffer%20the%20Dragon.jpg)
 
 ### Summary
 In a world where monster hunting is revered, sixteen-year-old Elian Wolfcrest is a disappointment to his legendary family. Unable to bring himself to harm magical creatures, he discovers his true calling when he accidentally heals a wounded dragon named Thorn—the same dragon his ancestor had chained centuries ago.
@@ -186,9 +202,10 @@ As barbarian forces threaten their village, Elian must convince his healed magic
 
 ## The Fallen Star
 **Author:** Andrew Wooldridge
+**URL:** https://the-fallen-star.puter.site/
 **Genre:** Dark Fantasy Novel
 **Series:** The Dark Lord Chronicles: Book One
-**Cover Image:** [The Fallen Star.png](./The%20Fallen%20Star.png)
+**Cover Image:** [The Fallen Star.png](./img/The%20Fallen%20Star.png)
 
 ### Summary
 In a world dominated by dark magic and tyranny, a traveler from an advanced civilization crashes near a conquered kingdom after centuries in stasis. Armed with technology that rivals the most powerful magic, this morally ambiguous antihero assembles a team of outcasts and villains to overthrow the Dark Lord, pitting advanced science against corrupt sorcery in a desolate landscape where the line between savior and conqueror grows increasingly thin.
@@ -202,7 +219,8 @@ Society is divided between the Privileged Few (sorcerers and nobles who serve Az
 
 ## The Sigil
 **Author:** Andrew Wooldridge
-**Cover Image:** [The Sigil.jpg](./The%20Sigil.jpg)
+**URL:** https://the-sigil.puter.site/
+**Cover Image:** [The Sigil.jpg](./img/The%20Sigil.jpg)
 
 ### Summary
 In a multiverse where technology and magic are indistinguishable, Dr. Marcus Vega is chosen by a mysterious entity known as the Sigil to captain an extraordinary vessel.
@@ -213,9 +231,10 @@ Caught between competing loyalties and existential questions about identity and 
 
 ## Nine Lives: A Servant of Anubis
 **Author:** Andrew Wooldridge
+**URL:** https://nine-lives.puter.site/
 **Release Date:** 2025
 **Genre:** Supernatural Noir
-**Cover Image:** [Nine Lives.jpg](./Nine%20Lives.jpg)
+**Cover Image:** [Nine Lives.jpg](./img/Nine%20Lives.jpg)
 
 ### Summary
 Jake Harlow, a cynical but brilliant private detective in Boston, specializes in finding people who don't want to be found. When his investigation into missing Egyptian artifacts leads to his own murder, Jake awakens to find himself bound as a servant to Anubis, the Egyptian god of death—who manifests as a powerful, supernatural cat entity.
@@ -226,7 +245,8 @@ The story explores themes of justice beyond death, transformation and identity, 
 
 ## Bards of Discord
 **Author:** Andrew Wooldridge
-**Cover Image:** [Bards of Discord.jpg](./Bards%20of%20Discord.jpg)
+**URL:** https://bards-of-discord.puter.site/website/index.html
+**Cover Image:** [Bards of Discord.jpg](./img/Bards%20of%20Discord.jpg)
 
 ### Summary
 In the ancient elven metropolis of Harmonyvale, where crystal spires stretch toward the perpetually twilit sky, Princess Ariala Silverbough faces a terrible fate: inheriting the Eternal Throne of Harmonious Governance and spending the next 3,000 years presiding over polite lute recitals.
@@ -237,7 +257,8 @@ Join the Bards of Discord as they embark on a quest for the Ultimate Song—a me
 
 ## Nightwing Academy
 **Author:** Andrew Wooldridge
-**Cover Image:** [Nightwing Academy.jpg](./Nightwing%20Academy.jpg)
+**URL:** https://nightwing-academy.puter.site/
+**Cover Image:** [Nightwing Academy.jpg](./img/Nightwing%20Academy.jpg)
 
 ### Summary
 In a Victorian-era steampunk city shrouded in perpetual winter, fifteen-year-old Evelyn "Eve" Blackwood's life changes forever when a case of mistaken identity leads to her discovery of an extraordinary ability: she can transform into a snowy owl.
@@ -246,8 +267,9 @@ Recruited into the mysterious Nightwing Academy, Eve finds herself in a hidden w
 
 ## The Gateway
 **Author:** Andrew Wooldridge
+**URL:** https://the-gateway.puter.site/
 **Genre:** Young Adult Fantasy Novel
-**Cover Image:** [The Gateway.png](./The%20Gateway.png)
+**Cover Image:** [The Gateway.png](./img/The%20Gateway.png)
 
 ### Summary
 When 15-year-old Maya reluctantly spends her summer at her grandmother's remote ranch in Northern New Mexico, she discovers her family's centuries-old secret: they guard a magical gateway to a realm of elves, fairies, and monsters.
@@ -257,8 +279,9 @@ Just as Maya begins her training as a Guardian, the dormant gate awakens, bringi
 ## Dragon Crossing
 **Author:** Andrew Wooldridge
 **Subtitle:** The Great Swap
+**URL:** https://dragon-crossing.puter.site/
 **Genre:** Fantasy
-**Cover Image:** [Dragon Crossing.png](./Dragon%20Crossing.png)
+**Cover Image:** [Dragon Crossing.png](./img/Dragon%20Crossing.png)
 
 ### Summary
 When an ancient tyrant dragon and a wheelchair-bound boy switch bodies, they discover that true power comes in unexpected forms. Malachar the Magnificent has ruled his realm with fear for 847 years, but he's secretly bored out of his ancient mind. Zephyr Morvain is a brilliant 12-year-old who's spent his life reading about adventures he thought he'd never have.
@@ -275,15 +298,17 @@ What happens when the most unlikely pair discovers they have more in common than
 ## The Last Vanguard
 **Author:** Andrew Wooldridge
 **Subtitle:** A Science Fantasy Romance
-**Cover Image:** [The Last Vanguard.png](./The%20Last%20Vanguard.png)
+**URL:** https://the-last-vanguard.puter.site/
+**Cover Image:** [The Last Vanguard.png](./img/The%20Last%20Vanguard.png)
 
 ### Summary
 When a farm boy discovers an ancient alien ship and awakens its AI, their bond transcends the boundaries between human and artificial consciousness— but can their love survive cosmic threats and ancient evils?
 
 ## The Comprehensive Guide to the Best Inns and Outs
 **Author:** Andrew Wooldridge
+**URL:** https://inns-and-outs.puter.site/
 **Genre:** Cozy Fantasy Novel
-**Cover Image:** [The Comprehensive Guide to the Best Inns and Outs.jpg](./The%20Comprehensive%20Guide%20to%20the%20Best%20Inns%20and%20Outs.jpg)
+**Cover Image:** [The Comprehensive Guide to the Best Inns and Outs.jpg](./img/The%20Comprehensive%20Guide%20to%20the%20Best%20Inns%20and%20Outs.jpg)
 
 ### Summary
 In a world where magic flows through everyday moments, four unlikely companions embark on what seems like a simple mission: updating the kingdom's most important guidebook for travelers and adventurers. But as they journey from inn to inn, evaluating the warmth of hearths, the quality of ales, and the comfort of beds, they discover something far more precious than the perfect establishment—they find family, purpose, and the transformative power of stories that shape reality itself.
@@ -294,8 +319,9 @@ This is cozy fantasy at its finest: a tale that wraps you in warmth like a favor
 
 ## Bramblewood
 **Author:** Andrew Wooldridge
+**URL:** https://bramblewood.puter.site/
 **Genre:** Romantic Fantasy Novel
-**Cover Image:** [Bramblewood.jpg](./Bramblewood.jpg)
+**Cover Image:** [Bramblewood.jpg](./img/Bramblewood.jpg)
 
 ### Summary
 In the enchanting village of Bramblewood, where magic flows through cobblestone streets and flowers bloom with otherworldly beauty, a young elemental mage discovers that some mysteries are worth unraveling—especially when they lead to love.
@@ -308,8 +334,9 @@ A cozy fantasy romance that weaves together magical mystery, village charm, and 
 
 ## Clarity
 **Author:** Andrew Wooldridge
+**URL:** https://clarity.puter.site/
 **Genre:** Dark Fantasy Novel
-**Cover Image:** [Clarity.jpg](./Clarity.jpg)
+**Cover Image:** [Clarity.jpg](./img/Clarity.jpg)
 
 ### Summary
 In a world torn apart by magical warfare, can even the darkest soul find redemption?
@@ -331,8 +358,9 @@ This is a story about second chances, the transformative power of unconditional 
 
 ## The Unbroken
 **Author:** Andrew Wooldridge
+**URL:** https://the-unbroken.puter.site/
 **Genre:** Dark Fantasy Novel
-**Cover Image:** [The Unbroken.png](./The%20Unbroken.png)
+**Cover Image:** [The Unbroken.png](./img/The%20Unbroken.png)
 
 ### Summary
 In a world where magic exacts a price, and ancient powers stir in the ruins of civilization, Tyria is a Caster. She can command the Broken to her will with just a thought. The Broken are remnants of a magic long lost to time, fragments of a war so far distant no one even knows its origin. But the Broken exact a price, and unliving assassins hunt her with every Casting she makes.
@@ -354,8 +382,9 @@ Guided by Valorian, once the most powerful Caster of his age, now existing as fr
 
 ## A Familiar Feeling
 **Author:** Andrew Wooldridge
+**URL:** https://a-familiar-feeling.puter.site/
 **Genre:** Cozy Fantasy
-**Cover Image:** [A Familiar Feeling.png](./A%20Familiar%20Feeling.png)
+**Cover Image:** [A Familiar Feeling.png](./img/A%20Familiar%20Feeling.png)
 
 ### Summary
 Step into the enchanted village of Willowbrook, where magic flows through everyday moments and found family creates the strongest bonds. Follow Hazel Thornwick, a young witch with an oversized hat and an even bigger heart, as she discovers her destiny caring for abandoned magical familiars at the Familiar Orphanage.
@@ -374,12 +403,13 @@ This cozy fantasy celebrates community, second chances, and the extraordinary ma
 ## Toy Wars
 **Author:** Andrew Wooldridge
 **Subtitle:** A Romantic Comedy Fantasy
+**URL:** https://toy-wars.puter.site/
 **Genre:** Fantasy Romance Comedy Young Adult Magic Fairy Tale
 **Pages:** 350
 **Chapters:** 35
 **Word Count:** 98,000
 **Rating:** All Ages
-**Cover Image:** [Toy Wars.jpg](./Toy%20Wars.jpg)
+**Cover Image:** [Toy Wars.jpg](./img/Toy%20Wars.jpg)
 
 ### Summary
 Meet Elara Brightwood, an 18-year-old toymaker with wild curly hair and the magical ability to bring her creations to life. Living in exile on Seashell Island, she's built a sanctuary filled with animated friends including Mr. Buttons (a wise teddy bear with tiny spectacles), Herbert (a philosophical ceramic rabbit who tends the vegetable garden while having existential crises), and many others.
@@ -397,9 +427,10 @@ This romantic comedy fantasy explores themes of self-acceptance and creativity, 
 ## The Undead Groundskeeper
 **Author:** Andrew Wooldridge
 **Subtitle:** A Cozy Fantasy Romance
+**URL:** https://undead-groundskeeper.puter.site/
 **Genre:** Cozy Fantasy Romance Gothic Romance
 **Chapters:** 16
-**Cover Image:** [The Undead Groundskeeper.jpeg](./The%20Undead%20Groundskeeper.jpeg)
+**Cover Image:** [The Undead Groundskeeper.jpeg](./img/The%20Undead%20Groundskeeper.jpeg)
 
 ### Summary
 When an undead prince awakens in an overgrown cemetery, he feels an inexplicable compulsion to restore the sacred ground to its former glory. What begins as tending forgotten graves becomes a journey of self-discovery, community restoration, and ultimately, a quest for true love that could break an ancient curse.
