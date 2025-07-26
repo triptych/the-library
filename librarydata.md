@@ -448,3 +448,27 @@ Perfect for readers who enjoy Gothic romance with a gentle touch, stories of tra
 - Transformation and rebirth
 - Sacred duty and memory
 - Healing over horror
+
+## The Tower's Shadow
+**Author:** Andrew Wooldridge
+**URL:** https://towers-shadow.puter.site/
+**Genre:** Dark Fantasy
+**Cover Image:** [The Tower's Shadow.png](./img/The%20Tower%27s%20Shadow.png)
+
+### Summary
+In the shadow of an obsidian tower, a man awakens with no memory of his past—only to discover he may be the very evil he believes he has defeated. The Tower's Shadow is a contemplative dark fantasy that explores the complex nature of identity, redemption, and the thin line between good and evil.
+
+When Kael awakens in the obsidian chambers of the Shadowspire Tower with no memory of his past, he's told he's a hero who has just defeated the Dark Lord Malachar. But as fragments of memory return, he begins to suspect a terrible truth about his own identity. Set in the peaceful village of Millhaven, beneath the shadow of an ancient tower of power, this is a story about second chances, the transformative power of love, and the possibility that even the darkest soul might find redemption through the choices they make.
+
+### Core Themes
+- The nature of identity and memory
+- Redemption through love and choice
+- The balance between light and darkness
+- Community and belonging
+- Transformation and second chances
+
+### Characters
+- **Kael/Malachar:** The protagonist caught between two identities—the innocent villager Kael and the ancient Dark Lord Malachar. His journey of self-discovery forms the heart of the story.
+- **Lyra:** A village woman whose unwavering faith in redemption becomes the catalyst for transformation. Her love serves as both anchor and guide.
+- **Fenris:** A mystical wolf with starlight eyes who serves as mentor and companion, offering wisdom from centuries of experience.
+- **Millhaven Village:** The peaceful farming community that becomes both sanctuary and testing ground for the possibility of redemption and acceptance.
