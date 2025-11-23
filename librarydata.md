@@ -472,3 +472,48 @@ When Kael awakens in the obsidian chambers of the Shadowspire Tower with no memo
 - **Lyra:** A village woman whose unwavering faith in redemption becomes the catalyst for transformation. Her love serves as both anchor and guide.
 - **Fenris:** A mystical wolf with starlight eyes who serves as mentor and companion, offering wisdom from centuries of experience.
 - **Millhaven Village:** The peaceful farming community that becomes both sanctuary and testing ground for the possibility of redemption and acceptance.
+
+## Cybrina
+**Author:** Andrew Wooldridge
+**Subtitle:** Where Magic Meets Technology
+**URL:** https://cybrina.puter.site/
+**Genre:** Science Fantasy
+**Cover Image:** [Cybrina.jpg](./img/Cybrina.jpg)
+
+### Summary
+In a world where true magic has been replaced by corporate-controlled 'Mage Code,' apprentice Wytch Cybrina discovers her ancestor's hidden Grimoire and must choose between the comfortable lie of technological magic or the dangerous truth of real power—while Dark Agents hunt her to prevent magic's return.
+
+In a world where corporate magic has replaced the wild and organic power of true witchcraft, Cybrina Thorne is an apprentice learning the sterile, controlled system of "Mage Code"—blue-white geometric patterns powered by corporate technology. But when she discovers her ancestor Myrtle Thorne's hidden Grimoire, she awakens to true magic: golden amber flowing energy that resonates with wildflowers and harmonic power.
+
+Joined by Lux, a sarcastic sentient lantern who guides her through ancient mysteries, and Kael "Ghost" Merrick, a skilled shadow runner with a hidden past, Cybrina must navigate a world where the Dark Agents—led by the conflicted Cipher-7 Arlen Kade—hunt her to prevent magic's return. With the help of Dr. Vessa Kaine, keeper of forbidden history, Cybrina embarks on a revolutionary journey to reclaim stolen power and overthrow corporate control of magic itself.
+
+### The Tale of Two Magics
+
+**Mage Code (Corporate Magic):**
+- Corporate controlled
+- Sterile and precise
+- Blue-white geometric patterns
+- Electronic hum and ozone
+- Cold, calculated power
+
+**True Magic:**
+- Ancient and wild
+- Organic and alive
+- Golden amber flowing energy
+- Harmonic resonance and wildflowers
+- Warm, connected essence
+
+### Core Themes
+- Revolution against corporate control
+- Transformation from apprentice to revolutionary
+- Science fantasy where technology and magic intertwine
+- The power of ancient knowledge and heritage
+- Choosing dangerous truth over comfortable lies
+
+### Characters
+- **Cybrina Thorne:** The protagonist, a determined young Wytch with striking amber eyes who discovers her ancestor's Grimoire and awakens to true magic.
+- **Lux:** A sarcastic, wise sentient lantern companion bound to an ancient artifact, guiding Cybrina through the mysteries of true magic.
+- **Kael "Ghost" Merrick:** A skilled infiltrator and shadow runner with a hidden past who becomes an unlikely ally in the fight against corporate control.
+- **Dr. Vessa Kaine:** The Keeper of Knowledge, an archivist of forbidden history who preserves the truth about magic's past in an underground sanctuary.
+- **Cipher-7 Arlen Kade:** A deadly Dark Agent enforcer for the corporate regime, torn between duty and the awakening of his own suppressed magic.
+- **Myrtle Thorne:** Cybrina's powerful ancestor whose hidden Grimoire holds the key to restoring true magic to the world.
