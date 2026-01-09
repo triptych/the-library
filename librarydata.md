@@ -517,3 +517,28 @@ Joined by Lux, a sarcastic sentient lantern who guides her through ancient myste
 - **Dr. Vessa Kaine:** The Keeper of Knowledge, an archivist of forbidden history who preserves the truth about magic's past in an underground sanctuary.
 - **Cipher-7 Arlen Kade:** A deadly Dark Agent enforcer for the corporate regime, torn between duty and the awakening of his own suppressed magic.
 - **Myrtle Thorne:** Cybrina's powerful ancestor whose hidden Grimoire holds the key to restoring true magic to the world.
+
+## The Lost Librarian
+**Author:** Andrew Wooldridge
+**URL:** https://the-lost-librarian.puter.site/web/index.html
+**Genre:** Cozy Fantasy
+**Cover Image:** [The Lost Librarian.png](./img/The%20Lost%20Librarian.png)
+
+### Summary
+Tome has spent her entire existence among endless shelves in a magical library, tending to living books that whisper their contents and organizing knowledge that spans millennia. Her only companion is the Curator—a vast, ancient presence that IS the library itself.
+
+When a catastrophic breach tears her from this timeless sanctuary and thrusts her into a world she's only read about, Tome must navigate the overwhelming sensory reality of forests, villages, and most terrifying of all—other people. Armed with only a mysterious Guidebook and unpredictable transformation magic, she embarks on a journey to save the fading magical repositories before they collapse forever.
+
+But along the way, she discovers something more precious than all the knowledge in her lost library: the warmth of friendship, the courage found in vulnerability, and the wisdom that comes not from books, but from truly living.
+
+### Themes
+- Knowledge vs. Wisdom: The difference between reading about life and living it
+- Isolation to Connection: The courage it takes to be vulnerable and let people in
+- Preservation vs. Evolution: When holding on becomes harmful, and change becomes necessary
+- Found Family: Creating belonging through choice rather than circumstance
+
+### Characters
+- **Tome:** The Lost Librarian. A young woman expelled from her magical library into a world she's only read about. Brilliant but sheltered, with pale skin that's never seen sunlight and ink-stained fingers from a lifetime of turning pages.
+- **Sable:** The Wandering Merchant. A warm-hearted traveling merchant in her forties who becomes Tome's first friend and mother figure. With weathered brown skin, silver-streaked hair, and layers of jewelry from countless journeys.
+- **Yarrow:** The Hedge Witch. An enthusiastic young hedge witch with wild red curls, bright green eyes, and freckled skin touched by sun and garden work. Yarrow specializes in herbal magic and healing.
+- **Flint:** The Blacksmith. A gruff, powerfully built blacksmith in his late fifties, with a full gray beard and blue-gray eyes that carry deep sorrow. Behind his intimidating exterior lies profound gentleness.

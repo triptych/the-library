@@ -222,6 +222,13 @@
       "coverImage": "./img/Cybrina.jpg",
       "url": "https://cybrina.puter.site/",
       "summary": "In a world where true magic has been replaced by corporate-controlled 'Mage Code,' apprentice Wytch Cybrina discovers her ancestor's hidden Grimoire and must choose between the comfortable lie of technological magic or the dangerous truth of real power—while Dark Agents hunt her to prevent magic's return."
+    },
+    {
+      "title": "The Lost Librarian",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Lost Librarian.png",
+      "url": "https://the-lost-librarian.puter.site/web/index.html",
+      "summary": "Tome has spent her entire existence among endless shelves in a magical library, tending to living books that whisper their contents and organizing knowledge that spans millennia. When a catastrophic breach tears her from this timeless sanctuary and thrusts her into a world she's only read about, Tome must navigate the overwhelming sensory reality of forests, villages, and most terrifying of all—other people. Armed with only a mysterious Guidebook and unpredictable transformation magic, she embarks on a journey to save the fading magical repositories before they collapse forever. But along the way, she discovers something more precious than all the knowledge in her lost library: the warmth of friendship, the courage found in vulnerability, and the wisdom that comes not from books, but from truly living."
     }
   ]
 }
