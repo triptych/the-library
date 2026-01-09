@@ -230,19 +230,57 @@ vercel
 
 ## 📊 Current Book Collection
 
-The library currently features **30 fantasy novels** across multiple subgenres:
+The library currently features **33 fantasy novels** across multiple subgenres:
 
-- Cozy Fantasy (8 books)
+- Cozy Fantasy (9 books)
 - Dark Fantasy (6 books)
 - Romantic Fantasy (5 books)
 - Space Fantasy (3 books)
 - Young Adult (3 books)
 - Urban Fantasy (2 books)
+- Fantasy Comedy (1 book)
 - Steampunk (1 book)
 - Supernatural (1 book)
 - Gothic Romance (1 book)
+- Science Fantasy (1 book)
 
 All books are hosted on individual websites at the puter.site domain.
+
+### Complete Book List
+
+1. **The Chaos Sword** - A village girl bonds with an ancient, sentient sword
+2. **The Librarian's Index** - A magical library with a living Index
+3. **Gears and Spirits** - A tinker's tale of friendship and invention
+4. **The Dark Lord's Bed & Breakfast** - A retired villain runs a B&B
+5. **A Witch on the Line** - Thriller about a mysterious phone connection
+6. **The Enchanted Teahouse** - Tea brewing becomes a gateway to magic
+7. **The Magical Herbalist's Apprentice** - Plants that speak and ancient wisdom
+8. **Mistweaver** - Tarot cards become powerful magical entities
+9. **Mountain Odyssey** - Romantasy in treacherous magical peaks
+10. **Reborn as a Boat** - Identity and friendship in an unexpected form
+11. **The Shrine Gentleman** - A hunter becomes a shrine keeper
+12. **Starlight Salvage** - Finding beauty in space junk
+13. **Stellar Tides** - Magic and technology blend in floating islands
+14. **Suffer the Dragon** - A monster healer instead of a hunter
+15. **The Fallen Star** - Advanced technology versus corrupt sorcery
+16. **The Sigil** - Multiverse adventures and cosmic mysteries
+17. **Nine Lives: A Servant of Anubis** - Supernatural noir detective story
+18. **Bards of Discord** - Rock music meets fantasy adventure
+19. **Nightwing Academy** - Victorian steampunk shapeshifters
+20. **The Gateway** - Guarding a magical portal to another realm
+21. **Dragon Crossing** - A dragon and a boy switch bodies
+22. **The Last Vanguard** - Science fantasy romance with AI
+23. **The Comprehensive Guide to the Best Inns and Outs** - Journey of found family
+24. **Bramblewood** - Romantic fantasy with elemental magic
+25. **Clarity** - Dark sorceress finds redemption and love
+26. **The Unbroken** - Ancient magic with a deadly price
+27. **A Familiar Feeling** - Caring for abandoned magical creatures
+28. **Toy Wars** - Romantic comedy with living toys
+29. **The Undead Groundskeeper** - Gothic romance about curse-breaking
+30. **The Tower's Shadow** - Identity and memory in dark fantasy
+31. **Cybrina** - Corporate magic versus true witchcraft
+32. **The Lost Librarian** - A librarian thrust into the real world
+33. **Fantasy House Flip** - Retired adventurers flip cursed castles
 
 ## 🐛 Troubleshooting
 

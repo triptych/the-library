@@ -542,3 +542,73 @@ But along the way, she discovers something more precious than all the knowledge 
 - **Sable:** The Wandering Merchant. A warm-hearted traveling merchant in her forties who becomes Tome's first friend and mother figure. With weathered brown skin, silver-streaked hair, and layers of jewelry from countless journeys.
 - **Yarrow:** The Hedge Witch. An enthusiastic young hedge witch with wild red curls, bright green eyes, and freckled skin touched by sun and garden work. Yarrow specializes in herbal magic and healing.
 - **Flint:** The Blacksmith. A gruff, powerfully built blacksmith in his late fifties, with a full gray beard and blue-gray eyes that carry deep sorrow. Behind his intimidating exterior lies profound gentleness.
+
+## Fantasy House Flip
+**Author:** Andrew Wooldridge
+**URL:** https://fantasy-house-flip.puter.site/website/index.html
+**Genre:** Fantasy Comedy
+**Cover Image:** [Fantasy House Flip.png](./img/Fantasy%20House%20Flip.png)
+
+### Summary
+"After barely surviving one dragon fight too many, a group of legendary adventurers retires and discovers their only marketable skill is 'clearing out dangerous locations.' They pivot to fantasy real estate renovation, flipping cursed castles and monster lairs into desirable properties—until a ruthless rival tries to demolish their business (sometimes literally)."
+
+When washed-up adventurers realize their only marketable skill is clearing out dangerous locations, they start a fantasy real estate renovation business. But flipping cursed castles proves just as dangerous as slaying dragons—especially when a corporate villain wants to put them out of business permanently.
+
+### Tagline
+"Fixer Upper meets Fellowship of the Ring" - Where cursed castles get second chances and adventurers get building permits
+
+### Key Details
+- **Word Count:** 75K-90K Words
+- **Chapters:** 30 Chapters
+- **Genre:** Fantasy Comedy
+
+### Meet the Team
+
+#### Val Stonehammer
+**Role:** Team Leader / Former Barbarian
+
+Took an enchanted warhammer to the knee. Now walks with a magical cane. Still tries to solve every problem with violence.
+
+**Quote:** 💪 "What could possibly go wrong?"
+
+#### Elnara Moonwhisper
+**Role:** Finance Manager / 847-Year-Old Elf
+
+Spent eight centuries "finding herself." Invested poorly in enchanted pet rocks. Stress-bakes lembas bread.
+
+**Quote:** 📊 Tracks every copper piece
+
+#### Grimble Whiskerfoot
+**Role:** Contractor / Halfling Rogue
+
+Master thief with hoarding issues. His "connections" are 70% fences, 30% legitimate contractors.
+
+**Quote:** 🔧 "I know a guy..."
+
+#### Thaddeus P. Cromwell III
+**Role:** Interior Designer / Archmage
+
+Had an existential crisis after mastering ninth-circle magic. Now obsesses over aesthetics. His familiar is a talking albino peacock.
+
+**Quote:** ✨ "Darling, no."
+
+#### Kragga the Mighty
+**Role:** Demolition / Half-Orc Paladin
+
+Prefers smiting drywall to smiting evil. Still wears full plate armor to construction sites. Very concerned about safety.
+
+**Quote:** ⚒️ "For honor! And permits!"
+
+#### Lord Malvex Darkstone
+**Role:** The Villain / Corporate Evil
+
+Born "Melvin." Failed at traditional villainy but excels at ruthless business tactics. Runs Darkstone Estates empire.
+
+**Quote:** 💼 "Let's synergize this chaos!"
+
+### Themes
+- Retirement and reinvention
+- Found family and teamwork
+- Comedy meets fantasy adventure
+- The dangers of corporate greed
+- Building something new from the past
