@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', async function() {
     function addMagicalParticles() {
         const particlesContainer = document.querySelector('.magical-particles');
 
-        for (let i = 0; i < 30; i++) {
+        for (let i = 0; i < 50; i++) {
             const particle = document.createElement('div');
             particle.className = 'particle';
             particle.style.width = `${Math.random() * 8 + 2}px`;
@@ -186,11 +186,12 @@ document.addEventListener('DOMContentLoaded', async function() {
             particle.style.left = `${Math.random() * 100}%`;
             particle.style.boxShadow = '0 0 10px rgba(146, 116, 206, 0.5)';
 
-            // Random animation
-            const duration = Math.random() * 20 + 10;
+            // Random swimming animation with different directions
+            const duration = Math.random() * 15 + 10;
             const delay = Math.random() * 5;
+            const animationType = Math.random() < 0.5 ? 'swimHorizontal' : 'swimVertical';
 
-            particle.style.animation = `float ${duration}s ${delay}s infinite linear alternate`;
+            particle.style.animation = `${animationType} ${duration}s ${delay}s infinite ease-in-out`;
 
             // Append to document to ensure particles are created
             particlesContainer.appendChild(particle);

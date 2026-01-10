@@ -40,28 +40,52 @@ body {
     width: 100%;
     height: 100%;
     pointer-events: none;
-    background-image: radial-gradient(var(--magical-glow) 1px, transparent 1px);
-    background-size: 50px 50px;
-    opacity: 0.3;
-    animation: float 20s infinite linear;
-}
-
-@keyframes float {
-    0% {
-        transform: translateY(0) rotate(0deg);
-    }
-    100% {
-        transform: translateY(-20px) rotate(0.5deg);
-    }
+    overflow: hidden;
 }
 
 .particle {
     position: absolute;
     pointer-events: none;
-    animation-direction: alternate;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     filter: blur(1px);
+    opacity: 0.6;
+}
+
+@keyframes swimHorizontal {
+    0% {
+        transform: translate(0, 0) rotate(0deg);
+    }
+    25% {
+        transform: translate(100px, -50px) rotate(90deg);
+    }
+    50% {
+        transform: translate(200px, 0px) rotate(180deg);
+    }
+    75% {
+        transform: translate(100px, 50px) rotate(270deg);
+    }
+    100% {
+        transform: translate(0, 0) rotate(360deg);
+    }
+}
+
+@keyframes swimVertical {
+    0% {
+        transform: translate(0, 0) scale(1);
+    }
+    25% {
+        transform: translate(-50px, 100px) scale(1.2);
+    }
+    50% {
+        transform: translate(0, 200px) scale(0.8);
+    }
+    75% {
+        transform: translate(50px, 100px) scale(1.1);
+    }
+    100% {
+        transform: translate(0, 0) scale(1);
+    }
 }
 
 header {
