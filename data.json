@@ -1,0 +1,241 @@
+{
+  "books": [
+    {
+      "title": "The Chaos Sword",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Chaos Sword.jpg",
+      "url": "https://the-chaos-sword.puter.site/",
+      "summary": "\"The Chaos Sword\" follows the journey of Lyra Nightwind, a quiet village girl who unwillingly bonds with an ancient, sentient sword after pirates destroy her home. Their tumultuous relationship transforms both of them as Lyra learns to assert herself and the sword (Kais) discovers the power of compassion beyond killing."
+    },
+    {
+      "title": "The Librarian's Index",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Librarian's Index.jpg",
+      "url": "https://librarians-index.puter.site/",
+      "summary": "When 26-year-old Mira Thornfield is mysteriously chosen as the next Head Librarian of the grand Everscript Library, she discovers this is no ordinary collection of books. The shelves rearrange themselves at night, books whisper their secrets, and the ancient magical Index has manifested as a handsome, slightly awkward young man who calls himself Paige."
+    },
+    {
+      "title": "Gears and Spirits",
+      "subtitle": "A Tinker's Tale",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Gears and Spirits.jpeg",
+      "url": "https://gears-and-spirits.puter.site/",
+      "summary": "In the charming seaside town of Saltwhisper Cove, where fishing boats bob gently in the harbor and seagulls sing with the morning tide, twenty-two-year-old Pippa Cogsworth arrives with her wagon full of peculiar tools and half-finished inventions."
+    },
+    {
+      "title": "The Dark Lord's Bed & Breakfast",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Dark Lord's Bed & Breakfast.png",
+      "url": "https://dark-lord-bed-breakfast.puter.site/",
+      "summary": "When the infamous Dark Lord finds himself forced into early retirement, he converts his ominous fortress into a bed and breakfast. What follows is an unexpected journey as the former villain navigates the hospitality industry, deals with quirky guests, and perhaps discovers that providing comfort can be as satisfying as spreading fear."
+    },
+    {
+      "title": "A Witch on the Line",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/A Witch.png",
+      "url": "https://a-witch-on-the-line.puter.site/",
+      "summary": "A thriller/urban fantasy novel about Thomas Walker, a devout Christian and widower, who discovers a mysterious cell phone at a yard sale that connects him to Willow Blackwood, a young witch held captive by a secret government organization called Project Grimoire."
+    },
+    {
+      "title": "The Enchanted Teahouse",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Enchanted Teahouse.jpg",
+      "url": "https://enchanted-tea-house.puter.site/",
+      "summary": "A fantasy novel where tea brewing becomes a gateway to magic, family secrets are steeped in mystery, and a small town holds enchantments beyond imagination. Follow the journey through Misthollow as ancient traditions, magical brews, and unexpected alliances come together in a tale of discovery, courage, and the power of heritage."
+    },
+    {
+      "title": "The Magical Herbalist's Apprentice",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Magical Herbalist's Apprentice.png",
+      "url": "https://magical-herbalists-apprentice.puter.site/",
+      "summary": "In the village of Haven's Root, nineteen-year-old Sage Hawthorn serves as apprentice to Mistress Vervain, the local herbalist. During a routine dawn gathering of herbs, Sage discovers she can hear plants speak - a gift that runs in her family but manifests differently for each generation."
+    },
+    {
+      "title": "Mistweaver",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Mistweaver.png",
+      "url": "https://mistweaver.puter.site/",
+      "summary": "When 30-year-old Mai Nguyen discovers an ancient box while diving near her coastal hometown, she accidentally releases the 22 Major Arcana tarot cards into the world—each a powerful magical entity with its own agenda. Saving only The High Priestess card, Mai discovers she has become a \"Mistweaver,\" someone who can harness the magic of these entities."
+    },
+    {
+      "title": "Mountain Odyssey",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Mountain Odyssey.png",
+      "url": "https://mountain-odyssey.puter.site/",
+      "summary": "In the treacherous peaks where magic flows like the mountain winds, two souls with opposing powers find themselves bound by fate and drawn together by an undeniable connection."
+    },
+    {
+      "title": "Reborn as a Boat",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Reborn as a Boat.jpg",
+      "url": "https://reborn-as-a-boat.puter.site/",
+      "summary": "A cozy fantasy tale of identity, friendship, and finding home in unexpected places. Elian awakens with no memory, finding themselves inexplicably embodied as a small, wooden sailing ship anchored in a secluded cove."
+    },
+    {
+      "title": "The Shrine Gentleman",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Shrine Gentleman.jpg",
+      "url": "https://shrine-gentleman.puter.site/",
+      "summary": "In the mystical valley of Lunaria, where the silver light of the Moon Goddess Selene has blessed the land for centuries, a fateful mistake changes the course of destiny. Riven Blackthorn, a legendary hunter known for his unmatched skill and cold demeanor, accidentally kills Lyra, the revered Shrine Maiden, while pursuing a sacred stag through the forbidden forest."
+    },
+    {
+      "title": "Starlight Salvage",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Starlight Salvage.png",
+      "url": "https://starlight-salvage.puter.site/website/index.html",
+      "summary": "In the far reaches of the Cerulean Nebula, on the junk planet of Scrapheap, 23-year-old Eliza \"Tink\" Tinkerson spends her days sifting through mountains of discarded technology. Unlike the other salvagers who search for valuable parts to trade, Tink sees potential in every broken gadget and forgotten machine."
+    },
+    {
+      "title": "Stellar Tides",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Stellar Tides.png",
+      "url": "https://stellar-tides.puter.site/",
+      "summary": "Welcome to the world of Stellar Tides, a cozy space fantasy novel that blends magic and technology in a universe where floating islands drift through perpetual twilight skies streaked with aurora ribbons."
+    },
+    {
+      "title": "Suffer the Dragon",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Suffer the Dragon.jpg",
+      "url": "https://suffer-the-dragon.puter.site/website/",
+      "summary": "In a world where monster hunting is revered, sixteen-year-old Elian Wolfcrest is a disappointment to his legendary family. Unable to bring himself to harm magical creatures, he discovers his true calling when he accidentally heals a wounded dragon named Thorn—the same dragon his ancestor had chained centuries ago."
+    },
+    {
+      "title": "The Fallen Star",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Fallen Star.png",
+      "url": "https://the-fallen-star.puter.site/",
+      "summary": "In a world dominated by dark magic and tyranny, a traveler from an advanced civilization crashes near a conquered kingdom after centuries in stasis. Armed with technology that rivals the most powerful magic, this morally ambiguous antihero assembles a team of outcasts and villains to overthrow the Dark Lord, pitting advanced science against corrupt sorcery in a desolate landscape where the line between savior and conqueror grows increasingly thin."
+    },
+    {
+      "title": "The Sigil",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Sigil.jpg",
+      "url": "https://the-sigil.puter.site/",
+      "summary": "In a multiverse where technology and magic are indistinguishable, Dr. Marcus Vega is chosen by a mysterious entity known as the Sigil to captain an extraordinary vessel."
+    },
+    {
+      "title": "Nine Lives: A Servant of Anubis",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Nine Lives.jpg",
+      "url": "https://nine-lives.puter.site/",
+      "summary": "Jake Harlow, a cynical but brilliant private detective in Boston, specializes in finding people who don't want to be found. When his investigation into missing Egyptian artifacts leads to his own murder, Jake awakens to find himself bound as a servant to Anubis, the Egyptian god of death—who manifests as a powerful, supernatural cat entity."
+    },
+    {
+      "title": "Bards of Discord",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Bards of Discord.jpg",
+      "url": "https://bards-of-discord.puter.site/website/index.html",
+      "summary": "In the ancient elven metropolis of Harmonyvale, where crystal spires stretch toward the perpetually twilit sky, Princess Ariala Silverbough faces a terrible fate: inheriting the Eternal Throne of Harmonious Governance and spending the next 3,000 years presiding over polite lute recitals.\n\nBut Ariala harbors a scandalous secret: she's been experimenting with an abominable contraption—something the humans call an \"electric guitar.\" And worse, she's written songs with distortion and power chords.\n\nJoin the Bards of Discord as they embark on a quest for the Ultimate Song—a melody so powerful it can reshape reality itself. Armed with the Amp of Amplification, the Pick of Destiny, and the Reverb Pedal of Reality, this unlikely band must face the ancient evil Discordius in an ultimate Battle of the Bands that will determine the fate of all realms."
+    },
+    {
+      "title": "Nightwing Academy",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Nightwing Academy.jpg",
+      "url": "https://nightwing-academy.puter.site/",
+      "summary": "In a Victorian-era steampunk city shrouded in perpetual winter, fifteen-year-old Evelyn \"Eve\" Blackwood's life changes forever when a case of mistaken identity leads to her discovery of an extraordinary ability: she can transform into a snowy owl.\n\nRecruited into the mysterious Nightwing Academy, Eve finds herself in a hidden world of were-raptors, clockwork surveillance ravens, and ancient prophecies. As she learns to master her newfound powers alongside other shapeshifting students, she uncovers dark secrets about the city's eternal winter and her own destiny."
+    },
+    {
+      "title": "The Gateway",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Gateway.png",
+      "url": "https://the-gateway.puter.site/",
+      "summary": "When 15-year-old Maya reluctantly spends her summer at her grandmother's remote ranch in Northern New Mexico, she discovers her family's centuries-old secret: they guard a magical gateway to a realm of elves, fairies, and monsters.\n\nJust as Maya begins her training as a Guardian, the dormant gate awakens, bringing a wounded elven prince and ancient dangers that force her to embrace powers she never knew she possessed. Now Maya must bridge two worlds and prevent a war that could destroy them both."
+    },
+    {
+      "title": "Dragon Crossing",
+      "subtitle": "The Great Swap",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Dragon Crossing.png",
+      "url": "https://dragon-crossing.puter.site/",
+      "summary": "When an ancient tyrant dragon and a wheelchair-bound boy switch bodies, they discover that true power comes in unexpected forms. Malachar the Magnificent has ruled his realm with fear for 847 years, but he's secretly bored out of his ancient mind. Zephyr Morvain is a brilliant 12-year-old who's spent his life reading about adventures he thought he'd never have. Through unexpected friendships, and genuine heart, they learn that the greatest magic of all is connection."
+    },
+    {
+      "title": "The Last Vanguard",
+      "subtitle": "A Science Fantasy Romance",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Last Vanguard.png",
+      "url": "https://the-last-vanguard.puter.site/",
+      "summary": "When a farm boy discovers an ancient alien ship and awakens its AI, their bond transcends the boundaries between human and artificial consciousness— but can their love survive cosmic threats and ancient evils?"
+    },
+    {
+      "title": "The Comprehensive Guide to the Best Inns and Outs",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Comprehensive Guide to the Best Inns and Outs.jpg",
+      "url": "https://inns-and-outs.puter.site/",
+      "summary": "In a world where magic flows through everyday moments, four unlikely companions embark on what seems like a simple mission: updating the kingdom's most important guidebook for travelers and adventurers. But as they journey from inn to inn, evaluating the warmth of hearths, the quality of ales, and the comfort of beds, they discover something far more precious than the perfect establishment—they find family, purpose, and the transformative power of stories that shape reality itself."
+    },
+    {
+      "title": "Bramblewood",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Bramblewood.jpg",
+      "url": "https://bramblewood.puter.site/",
+      "summary": "In the enchanting village of Bramblewood, where magic flows through cobblestone streets and flowers bloom with otherworldly beauty, a young elemental mage discovers that some mysteries are worth unraveling—especially when they lead to love. When Elara Ashwind arrives seeking a quiet place to practice her wind magic, she expects nothing more than peaceful days and gentle breezes. Instead, she finds herself drawn into both a dangerous conspiracy and an unexpected romance with Finn Thornwick, the village's mysterious herbalist whose knowledge of plant magic runs deeper than anyone suspects."
+    },
+    {
+      "title": "Clarity",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Clarity.jpg",
+      "url": "https://clarity.puter.site/",
+      "summary": "In a world torn apart by magical warfare, can even the darkest soul find redemption? In a world ravaged by endless magical warfare, where powerful sorcerers wage devastating battles with no regard for the innocent, stands The Lighthouse—a sanctuary castle built on an ocean outcropping, serving as a refuge for any creature seeking healing from the horrors of war. When the legendary dark sorceress known as the Raven falls from the sky, broken and dying after a catastrophic battle, she crashes near this sanctuary. Brand, the master healer who leads The Lighthouse, makes a choice that will change everything: he will heal her, regardless of her fearsome reputation. This is a story about second chances, the transformative power of unconditional love, and the belief that no one—no matter how far they have fallen—is beyond redemption."
+    },
+    {
+      "title": "The Unbroken",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Unbroken.png",
+      "url": "https://the-unbroken.puter.site/",
+      "summary": "In a world where magic exacts a price, and ancient powers stir in the ruins of civilization, Tyria is a Caster. She can command the Broken to her will with just a thought. The Broken are remnants of a magic long lost to time, fragments of a war so far distant no one even knows its origin. But the Broken exact a price, and unliving assassins hunt her with every Casting she makes. A young woman who can command the Broken with her will, but every use of her power draws the attention of deadly Trackers. Scarred by loss and hardened by survival, she must learn to trust and love while wielding ancient magic."
+    },
+    {
+      "title": "A Familiar Feeling",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/A Familiar Feeling.png",
+      "url": "https://a-familiar-feeling.puter.site/",
+      "summary": "Step into the enchanted village of Willowbrook, where magic flows through everyday moments and found family creates the strongest bonds. Follow Hazel Thornwick, a young witch with an oversized hat and an even bigger heart, as she discovers her destiny caring for abandoned magical familiars at the Familiar Orphanage. When mysterious forces threaten the peaceful village and the prestigious Celestial Academy, Hazel must learn that the most powerful magic isn't found in grand spells, but in the connections we build with those we love."
+    },
+    {
+      "title": "Toy Wars",
+      "subtitle": "A Romantic Comedy Fantasy",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Toy Wars.jpg",
+      "url": "https://toy-wars.puter.site/",
+      "summary": "Meet Elara Brightwood, an 18-year-old toymaker with wild curly hair and the magical ability to bring her creations to life. Living in exile on Seashell Island, she's built a sanctuary filled with animated friends including Mr. Buttons (a wise teddy bear with tiny spectacles), Herbert (a philosophical ceramic rabbit who tends the vegetable garden while having existential crises), and many others. When three princes arrive seeking her hand in marriage—each with their own misguided approach to romance—Elara must navigate their courtship attempts while staying true to herself. This romantic comedy fantasy explores themes of self-acceptance and creativity, found family and true love, overcoming prejudice, and the power of kindness."
+    },
+    {
+      "title": "The Undead Groundskeeper",
+      "subtitle": "A Cozy Fantasy Romance",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Undead Groundskeeper.jpeg",
+      "url": "https://undead-groundskeeper.puter.site/",
+      "summary": "When an undead prince awakens in an overgrown cemetery, he feels an inexplicable compulsion to restore the sacred ground to its former glory. What begins as tending forgotten graves becomes a journey of self-discovery, community restoration, and ultimately, a quest for true love that could break an ancient curse. This is not a tale of horror, but of hope. The Undead Groundskeeper blends supernatural elements with warmth and comfort, creating a cozy fantasy atmosphere that invites readers into a world where love, dedication, and community can overcome even the darkest curses."
+    },
+    {
+      "title": "The Tower's Shadow",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Tower's Shadow.png",
+      "url": "https://towers-shadow.puter.site/",
+      "summary": "In the shadow of an obsidian tower, a man awakens with no memory of his past—only to discover he may be the very evil he believes he has defeated. The Tower's Shadow is a contemplative dark fantasy that explores the complex nature of identity, redemption, and the thin line between good and evil. When Kael awakens in the obsidian chambers of the Shadowspire Tower with no memory of his past, he's told he's a hero who has just defeated the Dark Lord Malachar. But as fragments of memory return, he begins to suspect a terrible truth about his own identity."
+    },
+    {
+      "title": "Cybrina",
+      "subtitle": "Where Magic Meets Technology",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Cybrina.jpg",
+      "url": "https://cybrina.puter.site/",
+      "summary": "In a world where true magic has been replaced by corporate-controlled 'Mage Code,' apprentice Wytch Cybrina discovers her ancestor's hidden Grimoire and must choose between the comfortable lie of technological magic or the dangerous truth of real power—while Dark Agents hunt her to prevent magic's return."
+    },
+    {
+      "title": "The Lost Librarian",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/The Lost Librarian.png",
+      "url": "https://the-lost-librarian.puter.site/web/index.html",
+      "summary": "Tome has spent her entire existence among endless shelves in a magical library, tending to living books that whisper their contents and organizing knowledge that spans millennia. When a catastrophic breach tears her from this timeless sanctuary and thrusts her into a world she's only read about, Tome must navigate the overwhelming sensory reality of forests, villages, and most terrifying of all—other people. Armed with only a mysterious Guidebook and unpredictable transformation magic, she embarks on a journey to save the fading magical repositories before they collapse forever. But along the way, she discovers something more precious than all the knowledge in her lost library: the warmth of friendship, the courage found in vulnerability, and the wisdom that comes not from books, but from truly living."
+    },
+    {
+      "title": "Fantasy House Flip",
+      "author": "Andrew Wooldridge",
+      "coverImage": "./img/Fantasy House Flip.png",
+      "url": "https://fantasy-house-flip.puter.site/website/index.html",
+      "summary": "After barely surviving one dragon fight too many, a group of legendary adventurers retires and discovers their only marketable skill is 'clearing out dangerous locations.' They pivot to fantasy real estate renovation, flipping cursed castles and monster lairs into desirable properties—until a ruthless rival tries to demolish their business (sometimes literally). When washed-up adventurers realize their only marketable skill is clearing out dangerous locations, they start a fantasy real estate renovation business. But flipping cursed castles proves just as dangerous as slaying dragons—especially when a corporate villain wants to put them out of business permanently."
+    }
+  ]
+}
