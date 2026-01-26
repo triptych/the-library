@@ -612,3 +612,25 @@ Born "Melvin." Failed at traditional villainy but excels at ruthless business ta
 - Comedy meets fantasy adventure
 - The dangers of corporate greed
 - Building something new from the past
+
+## Mothership
+**Author:** Andrew Wooldridge
+**URL:** https://mothership-book.puter.site/
+**Genre:** Science Fiction
+**Cover Image:** [Mothership.png](./img/Mothership.png)
+
+### Summary
+This sci-fi epic follows Hope's Cradle, a 2.3-kilometer colony ship transporting 10,000 sleeping children. When attacked by the Kresh—a predatory species viewing the children as food resources—the ship is damaged and abandoned on a scrap planet. The narrative explores the vessel's evolution from programmed AI into a protective maternal figure who rebuilds herself from discarded machinery and war mechs to rescue her charges.
+
+### Key Themes
+The story examines transformation (machine to mother), maternal love transcending biological limitations, found family dynamics among broken machines, and sacrifice for loved ones.
+
+### Main Characters
+- **MotherShip:** The guardian AI learning to love
+- **Spark:** An optimistic repair bot ally
+- **Circuit:** A tactical analysis unit
+- **Ironclad:** A battle-scarred war mech seeking redemption
+- **The Kresh:** Nomadic predators viewing humanity as resources
+
+### Available Formats
+HTML (browser), EPUB (e-readers), and PDF versions are provided for readers.

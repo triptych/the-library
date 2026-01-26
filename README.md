@@ -24,14 +24,14 @@ the-library/
 ├── index.html           # Main HTML structure
 ├── styles.css          # All styling and animations
 ├── script.js           # Carousel logic and interactions
-├── data.json           # Book data (30 novels)
+├── data.json           # Book data (34 novels)
 ├── librarydata.md      # Detailed book descriptions
 ├── README.md           # This file
 └── img/                # Book cover images
     ├── A Familiar Feeling.png
     ├── A Witch on the Line.jpg
     ├── Bards of Discord.jpg
-    └── ... (30 cover images total)
+    └── ... (34 cover images total)
 ```
 
 ## 🚀 Getting Started
@@ -132,6 +132,123 @@ Then navigate to `http://localhost:8000`
    - Optionally remove the cover image from `img/`
    - Remove the entry from `librarydata.md`
 
+## 🔄 How to Update This Library
+
+### Complete Workflow for Adding a New Book
+
+When adding a new book to the library, follow this complete workflow:
+
+#### 1. Fetch Book Information
+
+If the book has a website, fetch the cover image and metadata:
+
+```bash
+# Download the cover image
+curl -o ./img/BookName.png https://book-website.puter.site/cover.png
+
+# Or use wget
+wget -O ./img/BookName.png https://book-website.puter.site/cover.png
+```
+
+#### 2. Update Data Files
+
+Update all three data files in order:
+
+**a) Update `data.json`**
+- Add the new book entry to the `books` array
+- Ensure valid JSON syntax (use a validator if needed)
+- Include: title, author, coverImage, url, and summary
+
+**b) Update `librarydata.md`**
+- Add a detailed markdown entry with full book information
+- Include: title, author, URL, genre, cover image link
+- Add sections for Summary, Themes, Characters (if applicable)
+
+**c) Update `README.md`**
+- Update the book count in the "Current Book Collection" section
+- Add the genre count if it's a new genre
+- Add the book to the "Complete Book List"
+- Update the file structure section if the count changed significantly
+
+#### 3. Test Locally
+
+Before committing, test your changes:
+
+```bash
+# Open the site locally
+python -m http.server 8000
+
+# Or use Node.js
+npx http-server
+```
+
+Then navigate to `http://localhost:8000` and verify:
+- ✅ New book appears in the carousel
+- ✅ Cover image loads correctly
+- ✅ Book title and summary display properly
+- ✅ Link to book website works
+- ✅ No console errors (check browser DevTools with F12)
+
+#### 4. Commit Changes
+
+After testing, commit your changes to git:
+
+```bash
+# Stage all modified files
+git add data.json librarydata.md README.md img/BookName.png
+
+# Or stage all changes
+git add .
+
+# Commit with a descriptive message
+git commit -m "Add Mothership to the library"
+
+# Push to GitHub
+git push origin main
+```
+
+#### 5. Verify Deployment
+
+If using GitHub Pages or auto-deployment:
+- Wait a few minutes for deployment to complete
+- Visit your live site and verify the new book appears
+- Test on mobile devices if possible
+
+### Quick Reference Commands
+
+```bash
+# Download cover image
+curl -o ./img/BookName.png https://book-site.url/cover.png
+
+# Test locally
+python -m http.server 8000
+
+# Commit and push
+git add .
+git commit -m "Add new book: BookName"
+git push origin main
+```
+
+### Common Update Scenarios
+
+**Scenario: Updating book information**
+1. Edit `data.json` with new information
+2. Update corresponding entry in `librarydata.md`
+3. Test locally
+4. Commit and push
+
+**Scenario: Replacing a cover image**
+1. Replace the image file in `img/` folder
+2. Keep the same filename OR update path in `data.json`
+3. Clear browser cache to see new image
+4. Commit and push
+
+**Scenario: Reordering books**
+1. Reorder entries in `data.json` (carousel order follows JSON order)
+2. Optionally reorder list in `README.md` and `librarydata.md`
+3. Test locally to verify new order
+4. Commit and push
+
 ## ⚙️ Technical Details
 
 ### Technologies Used
@@ -230,7 +347,7 @@ vercel
 
 ## 📊 Current Book Collection
 
-The library currently features **33 fantasy novels** across multiple subgenres:
+The library currently features **34 novels** across multiple subgenres:
 
 - Cozy Fantasy (9 books)
 - Dark Fantasy (6 books)
@@ -243,6 +360,7 @@ The library currently features **33 fantasy novels** across multiple subgenres:
 - Supernatural (1 book)
 - Gothic Romance (1 book)
 - Science Fantasy (1 book)
+- Science Fiction (1 book)
 
 All books are hosted on individual websites at the puter.site domain.
 
@@ -281,6 +399,7 @@ All books are hosted on individual websites at the puter.site domain.
 31. **Cybrina** - Corporate magic versus true witchcraft
 32. **The Lost Librarian** - A librarian thrust into the real world
 33. **Fantasy House Flip** - Retired adventurers flip cursed castles
+34. **Mothership** - A colony ship AI transforms into a protective mother
 
 ## 🐛 Troubleshooting
 
